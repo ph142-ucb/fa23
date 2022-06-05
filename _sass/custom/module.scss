@@ -1,0 +1,72 @@
+.module {
+  @extend .card;
+  .module-days {
+    grid-template-columns: 0.85fr 4fr;
+    @include mq(lg) {
+      grid-template-columns: 0.85fr 7fr;
+    }
+  }
+}
+.module-date {
+  @extend .card-header;
+}
+.module-header {
+  @extend .card-header;
+}
+.module-body {
+  @extend .card-body;
+}
+.module-days {
+  border-bottom: $border $border-color;
+  border-top: $border $border-color;
+  &:first-child {
+    border-top: none;
+  }
+  &:last-child {
+    border-bottom: none;
+  }
+  .module-day,
+  .module-event {
+    margin: 0;
+    @include mq(sm) {
+      padding: $sp-2 $sp-2;
+    }
+    &.main {
+      border-top: $border $border-color;
+      &:first-of-type {
+        border-top: none;
+      }
+    }
+    p {
+      display: inline-block;
+      margin: 0;
+      width: 100%;
+      padding: 0px 10px 0px 0px;
+      @include mq(sm) {
+        vertical-align: top;
+        width: 85%;
+      }
+      +p {
+        width: auto;
+      }
+    }
+  }
+  .module-day {
+    grid-column-start: 1;
+  }
+  .module-event {
+    grid-column-start: 2;
+    +.module-event {
+      padding-top: 0;
+    }
+    .label-lab { background-color: #00A6A6 }
+    .label-quiz { background-color: #c1443c }
+    .label-lec { background-color: #2869e6 }
+    .label-hw { background-color: #e6a720 }
+    .label-proj { background-color: #595959 }
+    .label-exam { background-color: #99c24d }
+    .label-review { background-color: #bb67eb}
+    .label-synch { background-color: #f1392c}
+    .label-parti { background-color: #fd5304}
+  }
+}
