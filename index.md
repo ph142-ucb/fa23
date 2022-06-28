@@ -25,9 +25,9 @@ We will not be updating this page with announcements. For the latest announcemen
 ## Important Information
 
 - **Lectures**: Monday - Friday, 9:30 to 11 AM PST
-- **Location**: Online on Zoom
+- **Location**: Dwinelle 145
 - **Content**: Please refer to the [course schedule]({{ site.baseurl }}/course-schedule)
-- **Course number**: 14974
+- **Course number**: 14716
 - **Email for non-content inquiries**: [ph142@berkeley.edu](mailto:ph142@berkeley.edu)
 
 ## Goals
