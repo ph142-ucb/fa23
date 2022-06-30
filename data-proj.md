@@ -9,11 +9,11 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 ### PDF Links 
 
-[Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/su21/src/su_part1_instructions.pdf)  
+[Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/su22/src/dp/part1-instructions_su22.pdf)  
 
-[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/su21/src/su_part2_instructions.pdf)  
+[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/su22/src/dp/part2-instructions_su22.pdf)  
 
-[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/su21/src/su_part3-instructions.pdf)  
+[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/su22/src/dp/part3-instructions_su22.pdf)  
 
 <hr>
 
@@ -21,9 +21,9 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 **Due dates:** 
 
-- **Part I is due on July 19th at 10pm PST**
-- **Part II is due on August 2nd at 10pm PST**
-- **Part III is due on August 16th at 8am PST**
+- **Part I is due on July 18th at 10pm PST**
+- **Part II is due on August 1st at 10pm PST**
+- **Part III is due on August 15th at 12pm noon PST**
 
 **Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations.**
 
@@ -80,7 +80,7 @@ Because we are asking you to provide some visualizations and use the same datase
 
 You can have one student in your group following these instructions, or have many group members do this and send files back and forth to one another to work on the project together.
 
-1. Create a new folder in your ph142-su21/ directory called project/.
+1. Create a new folder in your ph142-su22/ directory called project/.
 2. In this project/ folder, create an .Rmd for your project.
 3. Find a dataset you’re interested in a upload it into this project/ folder. *You can click “Upload” in the File Viewer to upload your data onto Datahub. Make sure to use a data format you know how to read into R, such as csv, xlsx, etc. You can copy and paste your file into an Excel sheet first to get it into an appropriate format.
 4. Copy and paste the questions below into your Rmd file and complete them. 
