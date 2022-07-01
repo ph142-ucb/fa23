@@ -1,21 +1,69 @@
 ---
 layout: page
 title: Resources
-nav_exclude: true
+nav_order: 8
 description: Resources for students
 ---
 # Resources
 
+- [PH 142 Course Overview Interactive Presentation](https://prezi.com/p/xpqdo6z9nbhw/learning-from-data/)
+- [FAQs and Common Errors](https://ph142-ucb.github.io/sp22/faq/)
+- [R Cheat Sheet](https://docs.google.com/document/d/1mVhjngYDDcrlOvaBB5SfuKaU3O1btxZU45BOj0DXc48/edit#) 
+- [Lab Notes & Quick Checks](https://docs.google.com/document/d/1mzU-mUZRzfSP5I1XY0tTvm5EfVqJfd9EBZgEpLFlIzo/edit#heading=h.4im559r5sk9y)
+- [Distribution Visualization App](https://geneho.shinyapps.io/oomphstat-v2/_w_ff2f84d7/_w_c7a34e2e/)
+
+<hr>
+
+### Resource Videos
+
+| Prerequisites & Class Concepts Review                                                                                                                               | 
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Order of Operations & Math Notation](https://www.youtube.com/watch?v=q169gG-f8NU) ([Notes](https://ph142-ucb.github.io/sp22/src/resource/review_math_nolan.pdf)) |
+| [Manipulating Equations](https://www.youtube.com/watch?v=6zenzwW2iv8)                                                                                             |
+| [Logarithms](https://www.youtube.com/watch?v=3Ygq9CqaNlA)                                                                                                         |
+| [Line of Best Fit](https://www.youtube.com/watch?v=fQJCbrno2CQ)                                                                                                   |
+| [R vs R-Squared](https://www.youtube.com/watch?v=WSFMBgEi3iw)                                                                                                     |
+| [Outliers, Leverage, and Influence in Linear Regression](https://www.youtube.com/watch?v=_rHvQfwCQlg)                                                             |
+| [Probability Rules](https://www.youtube.com/watch?v=phYMnGGT0Ro)                                                                                                  |
+
+| Data Project                                      |
+|---------------------------------------------------|
+| [Finding Valid Datasets](https://www.youtube.com/watch?v=-W8aECcQ2dg)
+
+
+| R / RStudio                                                                                                                                                                                                                     |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [R Packages](https://www.youtube.com/watch?v=FcnbaSm_vug)                                                                                                                                                                       |
+| [Creating Folders, Working Directories, Uploading Data into Datahub](https://www.youtube.com/watch?v=iwRA5lI3XIM) ([Supplemental Doc](https://docs.google.com/document/d/1a00RtBiiaXoBKSk_2oStR6o7lmRe52PN6X6Mmr9vWrs/edit))    |
+| [Data Manipulation](https://www.youtube.com/watch?v=96A0TuJ43hk)                                                                                                                                                                |
+| [Categorizing Variables](https://youtu.be/wyJu6lX-2Vc)                                                                                                                                                                         |
+
+<hr>
+
+
 ### Exam Resources
 
-| Midterm 1                                                                                                                                                                                                                                                                                     | Midterm 2                                                                                                                                                                                                                                                                                                                                                                                 | Final |
-:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------|
-| [Fa18 Midterm 1](https://ph142-ucb.github.io/fa20/src/practice/2018-Fall_Midterm-01.pdf) ([Solutions](https://ph142-ucb.github.io/fa20/src/practice/2018-Fall_Midterm-01_solutions.pdf)) ([Handout for Q2](https://ph142-ucb.github.io/fa20/src/practice/2018-Fall_Question2-dataframes.pdf)) | [Fa18 Midterm 2](https://piazza.com/redirect/s3?bucket=uploads&prefix=paste%2Fixzd7evbagn%2F2ff1948022c730c293d21a472e6fc11512bc8e9fd78a85b7cbac019480b1f679%2F2018-Fall_Midterm-02.pdf) ([Solutions](https://piazza.com/redirect/s3?bucket=uploads&prefix=paste%2Fixzd7evbagn%2F27640051aa0f220b82a8629ba651b0cb33bae3192bf38416bf4e874072b2c327%2F2018-Fall_Midterm-02_solutions_.pdf)) | [Fa19 Practice Midterm & Solutions](https://ph142-ucb.github.io/fa20/src/Final_Practice.pdf)     |
-| [Sp19 Midterm 1](https://d1b10bmlvqabco.cloudfront.net/attach/k5ifdpm8hb529t/k5ife7c9hd22kj/k6ch2yxecfqx/Midterm01_final_draft.pdf) ([Solutions](https://d1b10bmlvqabco.cloudfront.net/attach/k5ifdpm8hb529t/k5ife7c9hd22kj/k6gy5lidkuip/midterm1_sp19_key.pdf))                              | [Sp19 Midterm 2](https://d1b10bmlvqabco.cloudfront.net/attach/k5ifdpm8hb529t/k5ife7c9hd22kj/k7o5s35rq6eo/Midterm02_final_v2.pdf) ([Solutions](https://d1b10bmlvqabco.cloudfront.net/attach/k5ifdpm8hb529t/k5ife7c9hd22kj/k7us85sv4032/Midterm2_examplesolutions.pdf))                                                                                                                     | [Sp19 Practice Final & Solutions](https://ph142-ucb.github.io/fa20/src/spring_2019_final.pdf)      |
-| [Midterm 1 Lab Review Slides](https://ph142-ucb.github.io/fa20/src/midterm-I-review.pdf)                                                                                                                                                                                                      | [Midterm 2 Lab Review Slides](https://ph142-ucb.github.io/fa20/src/midterm-2-slides.html) ([PDF](https://ph142-ucb.github.io/fa20/src/midterm-II-markdown.pdf))                                                                                                                                                                                                                           | [Inference Formulas](https://ph142-ucb.github.io/fa20/src/Inference-formulas.pdf)      |
-|                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                           | [Final Lab Review Slides](https://docs.google.com/presentation/d/1ZpezfoBFRoRgJnu4fN96Xcg3gqUZGXyqUb8ky0UVut8/edit?usp=sharing) ([PDF](https://ph142-ucb.github.io/fa20/src/midterm-III-review.pdf))|
+- [Exam Policies](https://docs.google.com/document/d/14SIs6t8J_2L0R0EYMa0Vl0cQPpEdB89krtGpn_1FMaw/edit)
 
-### Additional Readings Related to Public Health
-- [The Immortal Life of Henrietta Lacks, by Rebecca Skloot](https://bookshop.org/books/the-immortal-life-of-henrietta-lacks/9781400052189)
-- [Killing the Black Body, by Dorothy Roberts](https://bookshop.org/books/killing-the-black-body-race-reproduction-and-the-meaning-of-liberty/9780679758693)
-- [Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present, by Harriet A. Washington](https://bookshop.org/books/medical-apartheid-the-dark-history-of-medical-experimentation-on-black-americans-from-colonial-times-to-the-present/9780767915472)
+| Practice Exams | Year                          | Solutions                      |
+|----------------|-------------------------------|--------------------------------|
+| Midterm 1      | [Fa18 Midterm 1](https://ph142-ucb.github.io/fa21/src/resources/fa18-mt1.pdf) ([Q2 Handout](https://ph142-ucb.github.io/fa21/src/resources/fa18-mt1-supp.pdf)) | [Fa18 Midterm 1 Solutions](https://ph142-ucb.github.io/sp22/src/resource/fa18-mt1-sol.pdf) |
+|                | [Fa20 Midterm 1](https://ph142-ucb.github.io/fa21/src/resources/fa20-mt1.pdf) | [Fa20 Midterm 1 Solutions](https://ph142-ucb.github.io/sp22/src/resource/fa20-mt1-sol.pdf) |
+|                | [Sp21 Midterm 1](https://ph142-ucb.github.io/fa21/src/resources/sp21-mt1.pdf) | [Sp21 Midterm 1 Solutions](https://ph142-ucb.github.io/fa21/src/resources/sp21-mt1-sol.pdf) |
+|----------------|-------------------------------|--------------------------------|
+| Midterm 2      | [Fa18 Midterm 2](https://ph142-ucb.github.io/sp22/src/resource/mt2_fa18.pdf) | [Fa18 Midterm 2 Solutions](https://ph142-ucb.github.io/sp22/src/resource/mt2_fa18_SOLUTIONS.pdf) |
+|                | [Fa20 Midterm 2](https://ph142-ucb.github.io/sp22/src/resource/mt2_fa20.pdf) | [Fa20 Midterm 2 Solutions](https://ph142-ucb.github.io/sp22/src/resource/mt2_fa20_SOLUTIONS.pdf) |
+|                | [Sp21 Midterm 2 Gradescope](https://ph142-ucb.github.io/sp22/src/resource/mt2_sp21_gradescope.pdf) | [Sp21 Midterm 2 Gradescope Solutions](https://ph142-ucb.github.io/sp22/src/resource/mt2_sp21_gradescope_SOLUTIONS.pdf) |
+|                | [Sp21 Midterm 2 Takehome](https://ph142-ucb.github.io/sp22/src/resource/mt2_sp21_takehome.pdf) | [Sp21 Midterm 2 Takehome Solutions](https://ph142-ucb.github.io/sp22/src/resource/mt2_sp21_takehome_SOLUTIONS.pdf) |
+|----------------|-------------------------------|--------------------------------|
+| Final          | [Fa19 Final](https://ph142-ucb.github.io/sp22/src/resource/final_fa19.pdf) | [Fa19 Final Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_fa19_SOLUTIONS.pdf) |
+|                | [Fa20 Final](https://ph142-ucb.github.io/sp22/src/resource/final_fa20.pdf) | [Fa20 Final Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_fa20_SOLUTIONS.pdf) |
+|                | [Sp21 Final Takehome](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_takehome.pdf) | [Sp21 Final Takehome Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_takehome_SOLUTIONS.pdf) |
+|                | [Sp21 Final Gradescope](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_timed.pdf) | [Sp21 Final Gradescope Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_timed_SOLUTIONS.pdf) |
+
+
+<!---
+|------------|-------------------------------|--------------------------------|
+| Final      | [Fa19 Final](https://ph142-ucb.github.io/fa21/src/resources/final/fa19_final.pdf) | [Fa19 Final Solutions](https://ph142-ucb.github.io/fa21/src/resources/final/fa19_final_sol.pdf) |
+|            | [Sp19 Final](https://ph142-ucb.github.io/fa21/src/resources/final/sp19_final.pdf) | [Sp19 Final Solutions](https://ph142-ucb.github.io/fa21/src/resources/final/sp19_final_sol.pdf) |
+|            | [Extra Practice Questions](https://ph142-ucb.github.io/fa21/src/resources/final/extra_practice_q.pdf) | [Extra Practice Questions Solutions](https://ph142-ucb.github.io/fa21/src/resources/final/extra_practice_q_sol.pdf) -->

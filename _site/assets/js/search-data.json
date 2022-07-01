@@ -48,11 +48,5 @@
     "url": "http://localhost:4000/su22/syllabus/",
     "relUrl": "/syllabus/"
   }
-  ,"8": {
-    "title": "Textbook",
-    "content": "Accessing “The Practice of Statistics in the Life Sciences” . This page is a detailed guide on how to access the online version of the class textbook, “The Practice of Statistics in the Life Sciences.” . . . Textbook Reservations . The digital textbook is available on HathiTrust through their Emergency Temporary Access Service (ETAS). Unfortunately, only three copies of “The Practice of Statistics in the Life Sciences” are available for checkout at a time. . Each student will have one hour of access to the textbook everytime they check out through HathiTrust. The system will automatically renew the reservation at the end of the hour unless another student requests for the book in advance (in the case where all three textbooks are being used concurrently). . Once finished with the textbook, please remember to click on the check out early button to allow other students to access the textbook. . . How to Access the Textbook via HathiTrust . Click on the link below to navigate to HathiTrust and access the textbook: . Link to Access Textbook | . | Login by clicking on the button on the top-right of the page. . . | Select ‘University of California, Berkeley’ for the “Find your partner institution:” dropdown and click ‘Continue’. . . | Make sure the “Remember this setting for one year for this service.” option is selected and click ‘Accept’. . . | Click on the button to checkout the book. Your reservation will last one hour and will renew automatically if no other student requests the ebook. . . | Once you are finished, click on the ‘Return Early’ button to return the book to allow other students to access the textbook. . . |",
-    "url": "http://localhost:4000/su22/textbook/",
-    "relUrl": "/textbook/"
-  }
   
 }
