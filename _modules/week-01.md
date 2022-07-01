@@ -8,7 +8,6 @@ days:
     events:
       "**Lecture 1**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Visualizing Distributions for One Variable":
         "Ch. 1 & 2"
-      "**Participation**{: .label .label-parti} Needs Assessment":
       "**Lab 1**{: .label .label-lab} on Datahub (Due July 8)":
       "**Homework 1**{: .label .label-hw} on Datahub":
       "**Quiz 1**{: .label .label-quiz} on Gradescope (Due Jul. 6th, 12:00 PM PST)":
