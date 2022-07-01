@@ -20,7 +20,7 @@ days:
       "**Lecture 3**{: .label .label-lec} Exploring Relationships Between Two Variables":
         "Ch. 4"
       "**Review**{: .label .label-review} Week 1 Review":
-      "**Quiz 2**{: .label .label-quiz} on Gradescope":
+      "**Quiz 2**{: .label .label-quiz} on Gradescope (Due Jul. 8th, 12:00 PM PST)":
   - date: 2022-07-08
     events:
       "**Lecture 4**{: .label .label-lec} Introduction to Regression":
