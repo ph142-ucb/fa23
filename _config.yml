@@ -28,8 +28,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 nav_links:
-  Textbook:
-    - 'https://ucbears.lib.berkeley.edu/991046977259706532_C119772844/view'
   Gradescope:
     - 'https://www.gradescope.com/courses/400123'
   Piazza:
