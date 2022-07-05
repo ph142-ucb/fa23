@@ -5,7 +5,7 @@ days:
     events: 
       "**Lecture 23**{: .label .label-lec} Inference for Proportions":
         "Ch. 19" 
-      "**Lab 11 (Extra Credit)**{: .label .label-lab} on Datahub (Due Aug. 12)":
+      "**Lab 11 (Extra Credit)**{: .label .label-lab} on Datahub (Due Aug. 11)":
       "**Homework 10**{: .label .label-hw} on Datahub":
   - date: 2022-08-09
     events:

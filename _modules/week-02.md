@@ -9,7 +9,7 @@ days:
     events:
       "**Lecture 6**{: .label .label-lec} Samples and Observational Studies": 
         "Ch. 7"
-      "**Lab 3**{: .label .label-lab} on Datahub":
+      "**Lab 3**{: .label .label-lab} on Datahub (Due July 14)":
       "**Homework 3**{: .label .label-hw} on Datahub":
       "**Quiz 3**{: .label .label-quiz} on Gradescope (Due Jul. 13th, 12:00 PM PST)":
   - date: 2022-07-13
@@ -23,7 +23,7 @@ days:
   - date: 2022-07-15
     events:
       "**Exam**{: .label .label-exam} Midterm I":
-      "**Lab 4**{: .label .label-lab} on Datahub (Due July 20)":
+      "**Lab 4**{: .label .label-lab} on Datahub (Due July 19)":
       "**Homework 4**{: .label .label-hw} on Datahub":
 ---
 

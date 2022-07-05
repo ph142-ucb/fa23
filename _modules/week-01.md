@@ -8,7 +8,7 @@ days:
     events:
       "**Lecture 1**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Visualizing Distributions for One Variable":
         "Ch. 1 & 2"
-      "**Lab 1**{: .label .label-lab} on Datahub (Due July 8)":
+      "**Lab 1**{: .label .label-lab} on Datahub (Due July 7)":
       "**Homework 1**{: .label .label-hw} on Datahub":
       "**Quiz 1**{: .label .label-quiz} on Gradescope (Due Jul. 6th, 12:00 PM PST)":
   - date: 2022-07-06
@@ -26,7 +26,7 @@ days:
       "**Lecture 4**{: .label .label-lec} Introduction to Regression":
         "Ch. 5 & 6"
       "**Participation**{: .label .label-parti} Meet with GSI":
-      "**Lab 2**{: .label .label-lab} on Datahub (Due July 12)":
+      "**Lab 2**{: .label .label-lab} on Datahub (Due July 11)":
       "**Homework 2**{: .label .label-hw} on Datahub":
  
 ---

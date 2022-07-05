@@ -9,7 +9,7 @@ days:
     events:
       "**Lecture 15**{: .label .label-lec} Sampling Distribution and the Central Limit Theorem": 
         "Ch. 13"
-      "**Lab 7**{: .label .label-lab} on Datahub (Due July 29)":
+      "**Lab 7**{: .label .label-lab} on Datahub (Due July 28)":
       "**Homework 7**{: .label .label-hw} on Datahub":
       "**Quiz 6**{: .label .label-quiz} on Gradescope (Due Jul 27th, 12:00 PM PST)) ":
   - date: 2022-07-27
@@ -23,5 +23,5 @@ days:
   - date: 2022-07-29
     events:
       "**Exam**{: .label .label-exam} **Midterm II**":
-      "**Lab 8**{: .label .label-lab} on Datahub (Due August 2)":
+      "**Lab 8**{: .label .label-lab} on Datahub (Due August 1)":
 ---

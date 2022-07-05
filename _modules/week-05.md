@@ -11,7 +11,7 @@ days:
     events:
       "**Lecture 19**{: .label .label-lec} Power, Type I/II Error, Sample Size": 
         "Ch. 17"
-      "**Lab 9**{: .label .label-lab} on Datahub (Due Aug. 6)":
+      "**Lab 9**{: .label .label-lab} on Datahub (Due Aug. 4)":
       "**Homework 8**{: .label .label-hw} on Datahub":
       "**Quiz 7**{: .label .label-quiz} on Gradescope (Due Aug. 5th, 12:00 PM PST))":
   - date: 2022-08-03
@@ -27,6 +27,6 @@ days:
     events:
       "**Lecture 22**{: .label .label-lec} Inference for Regression":
         "Ch. 23"
-      "**Lab 10**{: .label .label-lab} on Datahub (Due Aug. 9)":
+      "**Lab 10**{: .label .label-lab} on Datahub (Due Aug. 8)":
       "**Homework 9**{: .label .label-hw} on Datahub":
 ---

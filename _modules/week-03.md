@@ -11,7 +11,7 @@ days:
     events:
       "**Lecture 10**{: .label .label-lec} General Rules of Probability": 
         "Ch. 10"
-      "**Lab 5**{: .label .label-lab} on Datahub (Due July 22)":
+      "**Lab 5**{: .label .label-lab} on Datahub (Due July 21)":
       "**Homework 5**{: .label .label-hw} on Datahub":
       "**Quiz 4**{: .label .label-quiz} on Gradescope (Due Jul. 21st, 12:00 PM PST)":
   - date: 2022-07-20
@@ -29,6 +29,6 @@ days:
     events:
       "**Lecture 13**{: .label .label-lec} Normal and Binomial Distribution":
         "Ch. 11 & 12"
-      "**Lab 6**{: .label .label-lab} on Datahub (Due July 26)":
+      "**Lab 6**{: .label .label-lab} on Datahub (Due July 25)":
       "**Homework 6**{: .label .label-hw} on Datahub":
 ---
