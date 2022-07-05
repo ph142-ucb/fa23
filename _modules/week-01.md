@@ -6,7 +6,7 @@ days:
       "**No Class: Independence Day**":
   - date: 2022-07-05
     events:
-      "**Lecture 1**{: .label .label-lec} [Intro to PH142, the Cloud, and PPDAC; Beginning to work with data]":
+      "**Lecture 1**{: .label .label-lec} [Intro to PH142, the Cloud, and PPDAC; Beginning to work with data](https://ph142-ucb.github.io/su22/src/lec/l01-intro.pdf)":
         "Ch. 1 & 2"
       "**Lab 1**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due July 7)":
       "**Homework 1**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
