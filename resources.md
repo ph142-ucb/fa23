@@ -40,10 +40,7 @@ description: Resources for students
 
 <hr>
 
-
 ### Exam Resources
-
-- [Exam Policies](https://docs.google.com/document/d/14SIs6t8J_2L0R0EYMa0Vl0cQPpEdB89krtGpn_1FMaw/edit)
 
 | Practice Exams | Year                          | Solutions                      |
 |----------------|-------------------------------|--------------------------------|

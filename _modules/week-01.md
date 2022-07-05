@@ -8,8 +8,8 @@ days:
     events:
       "**Lecture 1**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Visualizing Distributions for One Variable":
         "Ch. 1 & 2"
-      "**Lab 1**{: .label .label-lab} on Datahub (Due July 7)":
-      "**Homework 1**{: .label .label-hw} on Datahub":
+      "**Lab 1**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due July 7)":
+      "**Homework 1**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
       "**Quiz 1**{: .label .label-quiz} on Gradescope (Due Jul. 6th, 12:00 PM PST)":
   - date: 2022-07-06
     events:
