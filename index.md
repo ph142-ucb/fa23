@@ -28,7 +28,7 @@ We will not be updating this page with announcements. For the latest announcemen
 - **Location**: Dwinelle 145
 - **Content**: Please refer to the [course schedule]({{ site.baseurl }}/course-schedule)
 - **Course number**: 14716
-- **Email for non-content inquiries**: [ph142@berkeley.edu](mailto:ph142@berkeley.edu)
+- **Email for non-content inquiries**: [142gsi@berkeley.edu](mailto:142gsi@berkeley.edu)
 
 ## Goals
 
