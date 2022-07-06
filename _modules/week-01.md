@@ -13,7 +13,7 @@ days:
       "**Quiz 1**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2121268) (Due Jul. 6th, 12:00 PM PST)":
   - date: 2022-07-06
     events:
-      "**Lecture 2**{: .label .label-lec} Visualization and Numerically Summarizing Spread and Central Tendency": 
+      "**Lecture 2**{: .label .label-lec} [Visualization and Numerically Summarizing Spread and Central Tendency](https://ph142-ucb.github.io/su22/src/L02-vis-sum.pdf)": 
         "Ch. 3"
   - date: 2022-07-07
     events:
