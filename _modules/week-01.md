@@ -17,7 +17,7 @@ days:
         "Ch. 3"
   - date: 2022-07-07
     events:
-      "**Lecture 3**{: .label .label-lec} Exploring Relationships Between Two Variables":
+      "**Lecture 3**{: .label .label-lec} [Exploring Relationships Between Two Variables](https://ph142-ucb.github.io/su22/src/l03-relationships-between-two-variables.pdf)":
         "Ch. 4"
       "**Review**{: .label .label-review} Week 1 Review":
       "**Quiz 2**{: .label .label-quiz} on Gradescope (Due Jul. 8th, 12:00 PM PST)":
