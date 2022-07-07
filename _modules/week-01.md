@@ -23,7 +23,7 @@ days:
       "**Quiz 2**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2123329) (Due Jul. 8th, 12:00 PM PST)":
   - date: 2022-07-08
     events:
-      "**Lecture 4**{: .label .label-lec} Introduction to Regression":
+      "**Lecture 4**{: .label .label-lec} [Introduction to Regression](https://ph142-ucb.github.io/su22/src/l04-intro-to-regression.pdf)":
         "Ch. 5 & 6"
       "**Participation**{: .label .label-parti} Meet with GSI":
       "**Lab 2**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due July 11)":
