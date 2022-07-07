@@ -4,7 +4,6 @@ days:
   - date: 2022-07-11
     events:
       "**Lecture 5**{: .label .label-lec} Two-way Tables: Relationships Between Two Categorical Variables":
-      "**Participation**{: .label .label-parti} Midterm Test Submission":
       "**Data Project**{: .label .label-proj} [Data Project Group Checklist](https://ph142-ucb.github.io/su22/src/dp/Group-confirmation-practice-submission.pdf) (Due 10:00 PM PST)":
   - date: 2022-07-12
     events:
