@@ -20,7 +20,7 @@ days:
       "**Lecture 3**{: .label .label-lec} [Exploring Relationships Between Two Variables](https://ph142-ucb.github.io/su22/src/l03-relationships-between-two-variables.pdf)":
         "Ch. 4"
       "**Review**{: .label .label-review} [Week 1 Review](https://docs.google.com/presentation/d/1Q1K1ZSzskbUOtc5W2KZjTbRs5Dn8IltX5Xu3zlMKNj4/edit?usp=sharing)":
-      "**Quiz 2**{: .label .label-quiz} on Gradescope (Due Jul. 8th, 12:00 PM PST)":
+      "**Quiz 2**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2123329) (Due Jul. 8th, 12:00 PM PST)":
   - date: 2022-07-08
     events:
       "**Lecture 4**{: .label .label-lec} Introduction to Regression":
