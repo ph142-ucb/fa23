@@ -23,6 +23,6 @@ days:
       "**Review**{: .label .label-review} Final Review":
   - date: 2022-08-12
     events:
-      "**Exam**{: .label .label-exam} **Final Exam**":
+      "**Exam**{: .label .label-exam} **Midterm 3**":
       "**Particpation**{: .label .label-parti} Data Project Part III Check-in (By End of Day)":
 ---
