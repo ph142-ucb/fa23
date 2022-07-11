@@ -5,6 +5,8 @@ days:
     events:
       "**Lecture 9**{: .label .label-lec} Introduction to Probability":
         "Ch. 9"
+      "**Lab 4**{: .label .label-lab} on Datahub":
+      "**Homework 4**{: .label .label-hw} on Datahub":
       "**Participation**{: .label .label-parti} Midterm Feedback":
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part I (Due 10:00 PM PST)":
   - date: 2022-07-19

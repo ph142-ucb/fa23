@@ -9,7 +9,7 @@ days:
       "**Lecture 1**{: .label .label-lec} [Intro to PH142, the Cloud, and PPDAC; Beginning to work with data](https://ph142-ucb.github.io/su22/src/l01-intro.pdf)":
         "Ch. 1 & 2"
       "**Lab 1**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due July 7)":
-      "**Homework 1**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)([Solutions](https://ph142-ucb.github.io/su22/src/hw-sol/hw01-sol.pdf))":
+      "**Homework 1**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) ([Solutions](https://ph142-ucb.github.io/su22/src/hw-sol/hw01-sol.pdf))":
       "**Quiz 1**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2121268) (Due Jul. 6th, 12:00 PM PST)":
   - date: 2022-07-06
     events:
@@ -27,6 +27,6 @@ days:
         "Ch. 5 & 6"
       "**Participation**{: .label .label-parti} Meet with GSI":
       "**Lab 2**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due July 11)":
-      "**Homework 2**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)([Solutions](https://ph142-ucb.github.io/su22/src/hw-sol/hw02-sol.pdf))":
+      "**Homework 2**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) ([Solutions](https://ph142-ucb.github.io/su22/src/hw-sol/hw02-sol.pdf))":
  
 ---
