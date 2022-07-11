@@ -15,11 +15,11 @@ days:
       "**Quiz 3**{: .label .label-quiz} on Gradescope (Due Jul. 13th, 12:00 PM PST)":
   - date: 2022-07-13
     events:
-      "**Lecture 7**{: .label .label-lec} Part I Summary":
+      "**Lecture 8**{: .label .label-lec} Part I Summary":
         "Ch. 8"
   - date: 2022-07-14
     events:
-      "**Lecture 8**{: .label .label-lec} Probability Part I":
+      "**Lecture 9**{: .label .label-lec} Probability Part I":
       "**Review**{: .label .label-review} Week 2 Review":
   - date: 2022-07-15
     events:
