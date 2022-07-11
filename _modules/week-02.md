@@ -9,6 +9,7 @@ days:
     events:
       "**Lecture 6**{: .label .label-lec} [Samples and Observational Studies](https://ph142-ucb.github.io/su22/src/l06-samples.pdf)": 
         "Ch. 7"
+      "**Lecture 7**{: .label .label-lec} [Study designs](https://ph142-ucb.github.io/su22/src/l07-study-designs.pdf)":   
       "**Lab 3**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due July 14)":
       "**Homework 3**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
       "**Quiz 3**{: .label .label-quiz} on Gradescope (Due Jul. 13th, 12:00 PM PST)":
