@@ -7,18 +7,18 @@ days:
       "**Data Project**{: .label .label-proj} [Data Project Group Checklist](https://ph142-ucb.github.io/su22/src/dp/Group-confirmation-practice-submission.pdf) (Due 10:00 PM PST)":
   - date: 2022-07-12
     events:
-      "**Lecture 6**{: .label .label-lec} Samples and Observational Studies": 
+      "**Lecture 6**{: .label .label-lec} [Samples and Observational Studies](https://ph142-ucb.github.io/su22/src/l06-samples.pdf)"Designing Experiments": 
         "Ch. 7"
       "**Lab 3**{: .label .label-lab} on Datahub (Due July 14)":
       "**Homework 3**{: .label .label-hw} on Datahub":
       "**Quiz 3**{: .label .label-quiz} on Gradescope (Due Jul. 13th, 12:00 PM PST)":
   - date: 2022-07-13
     events:
-      "**Lecture 7**{: .label .label-lec} Designing Experiments":
+      "**Lecture 7**{: .label .label-lec} Part I Summary":
         "Ch. 8"
   - date: 2022-07-14
     events:
-      "**Lecture 8**{: .label .label-lec} Part I Summary":
+      "**Lecture 8**{: .label .label-lec} Probability Part I":
       "**Review**{: .label .label-review} Week 2 Review":
   - date: 2022-07-15
     events:
