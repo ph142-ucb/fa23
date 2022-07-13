@@ -15,7 +15,7 @@ days:
       "**Quiz 3**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2126964) (Due Jul. 13th, 12:00 PM PST)":
   - date: 2022-07-13
     events:
-      "**Lecture 8**{: .label .label-lec} Part I Summary":
+      "**Lecture 8**{: .label .label-lec} [Part I Summary](https://ph142-ucb.github.io/su22/src/midterm-review.pdf)":
         "Ch. 8"
   - date: 2022-07-14
     events:
