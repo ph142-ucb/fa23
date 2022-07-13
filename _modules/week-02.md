@@ -19,7 +19,7 @@ days:
         "Ch. 8"
   - date: 2022-07-14
     events:
-      "**Lecture 9**{: .label .label-lec} Probability Part I":
+      "**Lecture 9**{: .label .label-lec} [Probability Part I](https://ph142-ucb.github.io/su22/src/l09-intro-to-probability.pdf)":
       "**Review**{: .label .label-review} Week 2 Review":
   - date: 2022-07-15
     events:
