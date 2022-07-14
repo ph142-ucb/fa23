@@ -20,7 +20,7 @@ days:
   - date: 2022-07-14
     events:
       "**Lecture 9**{: .label .label-lec} [Probability Part I](https://ph142-ucb.github.io/su22/src/l09-intro-to-probability.pdf)":
-      "**Review**{: .label .label-review} Week 2 Review":
+      "**Review**{: .label .label-review} [Week 2 Review](https://docs.google.com/presentation/d/1sjDvs-ysJA3mx97eFuYzGjQBXTYMFOQi/edit?usp=sharing&ouid=114207480286449788047&rtpof=true&sd=true)":
   - date: 2022-07-15
     events:
       "**Exam**{: .label .label-exam} Midterm I":
