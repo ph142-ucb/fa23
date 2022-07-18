@@ -5,6 +5,8 @@ days:
     events:
       "**Lecture 14**{: .label .label-lec} Binomial and Poisson Distribution":
         "Ch. 12"
+      "**Lab 6**{: .label .label-lab} on Datahub (Due July 26)":
+      "**Homework 6**{: .label .label-hw} on Datahub":
   - date: 2022-07-26
     events:
       "**Lecture 15**{: .label .label-lec} Sampling Distribution and the Central Limit Theorem": 
