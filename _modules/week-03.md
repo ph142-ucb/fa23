@@ -3,7 +3,7 @@ title: Week 3
 days:
   - date: 2022-07-18
     events:
-      "**Lecture 9**{: .label .label-lec} Introduction to Probability":
+      "**Lecture 9**{: .label .label-lec} [More Probability](https://ph142-ucb.github.io/su22/src/l10-more-probability.pdf)":
         "Ch. 9"
       "**Lab 4**{: .label .label-lab} on Datahub":
       "**Homework 4**{: .label .label-hw} on Datahub":
