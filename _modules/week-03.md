@@ -7,7 +7,7 @@ days:
         "Ch. 9"
       "**Lab 4**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due July 19th)":
       "**Homework 4**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
-      "**Participation**{: .label .label-parti} Midterm Feedback":
+      "**Participation**{: .label .label-parti} [Mid-Session Feedback Form](https://forms.gle/uBcsE3rrVjHM76nq6)":
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part I (Due 10:00 PM PST)":
   - date: 2022-07-19
     events:
