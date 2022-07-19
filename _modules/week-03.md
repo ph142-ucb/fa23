@@ -13,7 +13,7 @@ days:
     events:
       "**Lecture 11**{: .label .label-lec} [The Normal Distribution](https://ph142-ucb.github.io/su22/src/l11-normal-distribution.pdf)": 
         "Ch. 10"
-      "**Quiz 4**{: .label .label-quiz} on Gradescope (Due Jul. 21st, 12:00 PM PST)":
+      "**Quiz 4**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2130364) (Due Jul. 21st, 12:00 PM PST)":
   - date: 2022-07-20
     events:
       "**Lecture 12**{: .label .label-lec} The Binomial Distribution":
