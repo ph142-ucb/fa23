@@ -16,7 +16,7 @@ days:
       "**Quiz 4**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2130364) (Due Jul. 21st, 12:00 PM PST)":
   - date: 2022-07-20
     events:
-      "**Lecture 12**{: .label .label-lec} The Binomial Distribution":
+      "**Lecture 12**{: .label .label-lec} [The Binomial Distribution](https://ph142-ucb.github.io/su22/src/l12-binomial.pdf)":
         "Ch. 10"
       "**Lab 5**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due July 24)":
       "**Homework 5**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
