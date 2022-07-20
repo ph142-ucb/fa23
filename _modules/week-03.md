@@ -26,7 +26,7 @@ days:
         "Ch. 11"
       "**Participation**{: .label .label-parti} Meet with GSI":
       "**Review**{: .label .label-review} Week 4 Review":
-      "**Quiz 5**{: .label .label-quiz} on Gradescope":
+      "**Quiz 5**{: .label .label-quiz} on Gradescope (Due July 22nd, 12:00 PM PST)":
   - date: 2022-07-22
     events:
       "**Lecture 14**{: .label .label-lec} Sampling and the Central limit theorem":

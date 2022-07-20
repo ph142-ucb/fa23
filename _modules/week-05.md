@@ -13,7 +13,7 @@ days:
         "Ch. 17"
       "**Lab 9**{: .label .label-lab} on Datahub (Due Aug. 4)":
       "**Homework 8**{: .label .label-hw} on Datahub":
-      "**Quiz 7**{: .label .label-quiz} on Gradescope (Due Aug. 5th, 12:00 PM PST))":
+      "**Quiz 7**{: .label .label-quiz} on Gradescope (Due Aug. 3rd, 12:00 PM PST))":
   - date: 2022-08-03
     events:
       "**Lecture 20**{: .label .label-lec} Non-Parametrics":
@@ -22,7 +22,7 @@ days:
     events:
       "**Lecture 21**{: .label .label-lec} Inference for Regression":
       "**Review**{: .label .label-review} Week 5 Review":
-      "**Quiz 8**{: .label .label-quiz} on Gradescope (Due Aug. 8th, 12:00 PM PST)":
+      "**Quiz 8**{: .label .label-quiz} on Gradescope (Due Aug. 5th, 12:00 PM PST)":
   - date: 2022-08-05
     events:
       "**Lecture 22**{: .label .label-lec} Inference for Proportion":

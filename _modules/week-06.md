@@ -16,7 +16,7 @@ days:
       "**Lecture 25**{: .label .label-lec} Bonus: Bootstraps and Permutations": 
         "Ch. 21 & 22"
       "**Homework 11**{: .label .label-hw} on Datahub":
-      "**Quiz 9**{: .label .label-quiz} on Gradescope":
+      "**Quiz 9**{: .label .label-quiz} on Gradescope (Due Aug. 11th, 12:00 PM)":
   - date: 2022-08-11
     events:
       "**Lecture 26**{: .label .label-lec} Review":
