@@ -62,6 +62,6 @@ The objectives of this assignment are to:
 
 Because we are asking you to provide some visualizations and use the same dataset for parts II and III of the project, make sure that you choose a dataset with enough  observations (rows) to have something that you can interpret.  Confirm with your supporting GSI that you have an appropriate dataset.  You will also need a dataset large enough so that you can run a statistical test in part III.  A good general guide here is to choose a dataset with at least 100 observations, and at least 30 in each group if you are comparing across groups.  For example, if you are answering a question about mean days in the ICU between groups of patients exposed to some intervention procedure vs. not, you would want to have data on at least 100 patients, at least 30 of which had undergone the intervention and at least 30 of whom had not.  Your outcome of interest should be something that can be defined as a continuous, discrete or binary variable.  
 
-## Data Skills Demonstration Project Part I
+## Data Skills Demonstration Project Part II
 
-<iframe src="https://ph142-ucb.github.io/su22/src/dp/part1-instructions_su22.pdf" width="100%" height="800"></iframe>
+<iframe src="https://ph142-ucb.github.io/su22/src/dp/part2-instructions_su22.pdf" width="100%" height="800"></iframe>
