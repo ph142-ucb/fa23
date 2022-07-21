@@ -26,7 +26,7 @@ days:
         "Ch. 11"
       "**Participation**{: .label .label-parti} Meet with GSI":
       "**Review**{: .label .label-review} [Week 3 Review](https://docs.google.com/presentation/d/13BaR3wx8oG5J3Dg__ygYzzhFgHT_9hFur_y0-FVMN6E/edit?usp=sharing)":
-      "**Quiz 5**{: .label .label-quiz} on Gradescope (Due July 22nd, 12:00 PM PST)":
+      "**Quiz 5**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2133835) (Due July 22nd, 12:00 PM PST)":
   - date: 2022-07-22
     events:
       "**Lecture 14**{: .label .label-lec} Sampling and the Central limit theorem":
