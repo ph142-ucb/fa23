@@ -25,7 +25,7 @@ days:
       "**Lecture 13**{: .label .label-lec} [The Poisson Distribution](https://ph142-ucb.github.io/su22/src/l13-poisson.pdf)":
         "Ch. 11"
       "**Participation**{: .label .label-parti} Meet with GSI":
-      "**Review**{: .label .label-review} Week 4 Review":
+      "**Review**{: .label .label-review} [Week 3 Review](https://docs.google.com/presentation/d/13BaR3wx8oG5J3Dg__ygYzzhFgHT_9hFur_y0-FVMN6E/edit?usp=sharing)":
       "**Quiz 5**{: .label .label-quiz} on Gradescope (Due July 22nd, 12:00 PM PST)":
   - date: 2022-07-22
     events:
