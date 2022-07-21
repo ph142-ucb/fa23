@@ -22,7 +22,7 @@ days:
       "**Homework 5**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
   - date: 2022-07-21
     events:
-      "**Lecture 13**{: .label .label-lec} The Poisson Distribution":
+      "**Lecture 13**{: .label .label-lec} [The Poisson Distribution](https://ph142-ucb.github.io/su22/src/l13-poisson.pdf)":
         "Ch. 11"
       "**Participation**{: .label .label-parti} Meet with GSI":
       "**Review**{: .label .label-review} Week 4 Review":
