@@ -29,6 +29,6 @@ days:
       "**Quiz 5**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2133835) (Due July 22nd, 12:00 PM PST)":
   - date: 2022-07-22
     events:
-      "**Lecture 14**{: .label .label-lec} Sampling and the Central limit theorem":
+      "**Lecture 14**{: .label .label-lec} [Sampling and the Central limit theorem(https://ph142-ucb.github.io/su22/src/l15-central-limit.pdf)":
         "Ch. 11 & 12"
 ---
