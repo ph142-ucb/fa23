@@ -3,7 +3,7 @@ title: Week 4
 days:
   - date: 2022-07-25
     events:
-      "**Lecture 15**{: .label .label-lec} Confidence intervals and hypothesis testing":
+      "**Lecture 15**{: .label .label-lec} [Confidence intervals and hypothesis testing](https://ph142-ucb.github.io/su22/src/l15-inference.pdf)":
         "Ch. 12"
       "**Lab 6**{: .label .label-lab} on Datahub (Due July 26)":
       "**Homework 6**{: .label .label-hw} on Datahub":
