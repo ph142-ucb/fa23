@@ -9,7 +9,7 @@ days:
       "**Homework 6**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
   - date: 2022-07-26
     events:
-      "**Lecture 16**{: .label .label-lec} Power and Sample Size": 
+      "**Lecture 16**{: .label .label-lec} [Power and Sample Size](https://ph142-ucb.github.io/su22/src/l16-power.pdf)": 
         "Ch. 13"
       "**Quiz 6**{: .label .label-quiz} on Gradescope (Due Jul 27th, 12:00 PM PST)) ":
   - date: 2022-07-27
