@@ -11,7 +11,7 @@ days:
     events:
       "**Lecture 16**{: .label .label-lec} Power and Sample Size": 
         "Ch. 13"
-      "**Quiz 6**{: .label .label-quiz} on Gradescope (Due Jul 27th, 12:00 PM PST)) ":
+      "**Quiz 6**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2135659) (Due Jul 27th, 12:00 PM PST)) ":
   - date: 2022-07-27
     events:
       "**Lecture 17**{: .label .label-lec} Summary of Part II":
