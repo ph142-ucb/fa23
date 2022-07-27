@@ -6,7 +6,7 @@ days:
       "**Lecture 15**{: .label .label-lec} [Confidence intervals and hypothesis testing](https://ph142-ucb.github.io/su22/src/l15-inference.pdf)":
         "Ch. 12"
       "**Lab 6**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due July 26)":
-      "**Homework 6**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
+      "**Homework 6**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) ([Solutions](https://ph142-ucb.github.io/su22/src/hw-sol/hw06-sol.pdf))":
   - date: 2022-07-26
     events:
       "**Lecture 16**{: .label .label-lec} [Power and Sample Size](https://ph142-ucb.github.io/su22/src/l16-power.pdf)": 
@@ -17,7 +17,7 @@ days:
       "**Lecture 17**{: .label .label-lec} Summary of Part II":
         "Ch. 14"
       "**Lab 7**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due July 28)":
-      "**Homework 7**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
+      "**Homework 7**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) ([Solutions](https://ph142-ucb.github.io/su22/src/hw-sol/hw07-sol.pdf))":
   - date: 2022-07-28
     events:
       "**Lecture 18**{: .label .label-lec} Inference About a Population Mean (Z and T)":
