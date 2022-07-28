@@ -21,7 +21,7 @@ days:
   - date: 2022-07-28
     events:
       "**Lecture 18**{: .label .label-lec} Inference About a Population Mean (Z and T)":
-      "**Review**{: .label .label-review} Week 4 Review":
+      "**Review**{: .label .label-review} [Week 4 Review](https://docs.google.com/presentation/d/1DSruVYkJxfIcCG20f1lBlPSiD-S_tXirmTVgH7UM2wE/edit?usp=sharing)":
   - date: 2022-07-29
     events:
       "**Exam**{: .label .label-exam} **Midterm II**":
