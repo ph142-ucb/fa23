@@ -3,7 +3,7 @@ title: Week 5
 days:
   - date: 2022-08-01
     events:
-      "**Lecture 18**{: .label .label-lec} Two-sample and Paired T-Tests":
+      "**Lecture 18**{: .label .label-lec} [Two-sample and Paired T-Tests](https://ph142-ucb.github.io/su22/src/l19-ttests.pdf)":
         "Ch. 15"
       "**Lab 8**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due August 2)":
       "**Homework 8**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
