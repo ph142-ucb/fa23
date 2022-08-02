@@ -16,7 +16,7 @@ days:
       "**Quiz 7**{: .label .label-quiz} on Gradescope (Due Aug. 3rd, 12:00 PM PST))":
   - date: 2022-08-03
     events:
-      "**Lecture 21**{: .label .label-lec} Non-Parametrics":
+      "**Lecture 21**{: .label .label-lec} [Non-Parametrics](https://ph142-ucb.github.io/su22/src/l21-non-para.pdf)":
         "Ch. 17 & 18"
       "**Lab 9**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due Aug. 4)":
       "**Homework 9**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
