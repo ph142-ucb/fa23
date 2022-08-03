@@ -13,7 +13,7 @@ days:
       "**Lecture 20**{: .label .label-lec} [ANOVA, Tukey's HSD, Bonferroni Method](https://ph142-ucb.github.io/su22/src/anova.pdf)": 
         "Ch. 17"
       "**Participation**{: .label .label-parti} Meet with GSI":
-      "**Quiz 7**{: .label .label-quiz} on Gradescope (Due Aug. 3rd, 12:00 PM PST))":
+      "**Quiz 7**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2144155) (Due Aug. 3rd, 12:00 PM PST))":
   - date: 2022-08-03
     events:
       "**Lecture 21**{: .label .label-lec} [Non-Parametrics](https://ph142-ucb.github.io/su22/src/l21-non-para.pdf)":
