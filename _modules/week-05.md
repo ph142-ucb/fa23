@@ -22,7 +22,7 @@ days:
       "**Homework 9**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
   - date: 2022-08-04
     events:
-      "**Lecture 22**{: .label .label-lec} Inference for Regression":
+      "**Lecture 22**{: .label .label-lec} [Inference for Regression](https://ph142-ucb.github.io/su22/src/l22-reginf.pdf)":
       "**Review**{: .label .label-review} [Week 5 Review](https://docs.google.com/presentation/d/1IaQzujyTFoEhsr88DonbU_lec4HRspRNuhr3goMXHqs/edit?usp=sharing)":
       "**Quiz 8**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2144168) (Due Aug. 5th, 12:00 PM PST)":
   - date: 2022-08-05
