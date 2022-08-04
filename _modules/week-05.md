@@ -23,8 +23,8 @@ days:
   - date: 2022-08-04
     events:
       "**Lecture 22**{: .label .label-lec} Inference for Regression":
-      "**Review**{: .label .label-review} Week 5 Review":
-      "**Quiz 8**{: .label .label-quiz} on Gradescope (Due Aug. 5th, 12:00 PM PST)":
+      "**Review**{: .label .label-review} [Week 5 Review](https://docs.google.com/presentation/d/1IaQzujyTFoEhsr88DonbU_lec4HRspRNuhr3goMXHqs/edit?usp=sharing)":
+      "**Quiz 8**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2144168) (Due Aug. 5th, 12:00 PM PST)":
   - date: 2022-08-05
     events:
       "**Lecture 23**{: .label .label-lec} Inference for Proportion":
