@@ -27,7 +27,7 @@ days:
       "**Quiz 8**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2144168) (Due Aug. 5th, 12:00 PM PST)":
   - date: 2022-08-05
     events:
-      "**Lecture 23**{: .label .label-lec} Inference for Proportion":
+      "**Lecture 23**{: .label .label-lec} [Inference for Proportion](https://ph142-ucb.github.io/su22/src/l23-prop.pdf)":
         "Ch. 23"
       "**Lab 10**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due Aug. 8)":
       "**Homework 10**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
