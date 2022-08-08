@@ -7,7 +7,7 @@ days:
         "Ch. 19" 
   - date: 2022-08-09
     events:
-      "**Lecture 25**{: .label .label-lec}  Chi-squared test of independence":
+      "**Lecture 26**{: .label .label-lec}  [Chi-squared test of independence](https://ph142-ucb.github.io/su22/src/chisquared.pdf)":
         "Ch. 20"  
       "**Lab 11 (Extra Credit)**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due Aug. 11)":
       "**Homework 11**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
