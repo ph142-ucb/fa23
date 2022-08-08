@@ -9,8 +9,8 @@ days:
     events:
       "**Lecture 25**{: .label .label-lec} Chi-Squared Goodness of Fit and Two-way Tables":
         "Ch. 20"  
-      "**Lab 11 (Extra Credit)**{: .label .label-lab} on Datahub (Due Aug. 11)":
-      "**Homework 11**{: .label .label-hw} on Datahub":
+      "**Lab 11 (Extra Credit)**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due Aug. 11)":
+      "**Homework 11**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
       "**Quiz 9**{: .label .label-quiz} on Gradescope (Due Aug. 10th, 12:00 PM)":
   - date: 2022-08-10
     events:

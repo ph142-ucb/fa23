@@ -6,7 +6,7 @@ days:
       "**Lecture 19**{: .label .label-lec} [Two-sample and Paired T-Tests](https://ph142-ucb.github.io/su22/src/l19-ttests.pdf)":
         "Ch. 15"
       "**Lab 8**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due August 2)":
-      "**Homework 8**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
+      "**Homework 8**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) ([Solutions](https://ph142-ucb.github.io/su22/src/hw-sol/hw08-sol.pdf))":
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":
   - date: 2022-08-02
     events:
@@ -19,7 +19,7 @@ days:
       "**Lecture 21**{: .label .label-lec} [Non-Parametrics](https://ph142-ucb.github.io/su22/src/l21-non-para.pdf)":
         "Ch. 17 & 18"
       "**Lab 9**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due Aug. 4)":
-      "**Homework 9**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
+      "**Homework 9**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) ([Solutions](https://ph142-ucb.github.io/su22/src/hw-sol/hw09-sol.pdf))":
   - date: 2022-08-04
     events:
       "**Lecture 22**{: .label .label-lec} [Inference for Regression](https://ph142-ucb.github.io/su22/src/l22-reginf.pdf)":
@@ -30,5 +30,5 @@ days:
       "**Lecture 23**{: .label .label-lec} [Inference for Proportion](https://ph142-ucb.github.io/su22/src/l23-prop.pdf)":
         "Ch. 23"
       "**Lab 10**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due Aug. 8)":
-      "**Homework 10**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
+      "**Homework 10**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) ([Solutions](https://ph142-ucb.github.io/su22/src/hw-sol/hw10-sol.pdf))":
 ---
