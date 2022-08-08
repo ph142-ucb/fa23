@@ -3,7 +3,7 @@ title: Week 6
 days:
   - date: 2022-08-08
     events: 
-      "**Lecture 24**{: .label .label-lec} [Comparing Two Proportions]((https://ph142-ucb.github.io/su22/src/2prop.pdf)[Chi-Squared Goodness of Fit](https://ph142-ucb.github.io/su22/src/l24-goodnessoffit.pdf)":
+      "**Lecture 24**{: .label .label-lec} [Comparing Two Proportions](https://ph142-ucb.github.io/su22/src/2prop.pdf)[Chi-Squared Goodness of Fit](https://ph142-ucb.github.io/su22/src/l25-goodnessoffit.pdf)":
         "Ch. 19" 
   - date: 2022-08-09
     events:
