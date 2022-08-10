@@ -19,7 +19,7 @@ days:
   - date: 2022-08-11
     events:
       "**Lecture 27**{: .label .label-lec} Bonus: Bootstraps and Permutations":
-      "**Review**{: .label .label-review} Final Review":
+      "**Review**{: .label .label-review} [Final Review](https://docs.google.com/presentation/d/1XFi-SKKw5QVdfei2UDrkS5scB121aXNt/edit?usp=sharing&ouid=114207480286449788047&rtpof=true&sd=true)":
   - date: 2022-08-12
     events:
       "**Exam**{: .label .label-exam} **Midterm 3**":
