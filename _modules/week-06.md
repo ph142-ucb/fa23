@@ -10,7 +10,7 @@ days:
       "**Lecture 26**{: .label .label-lec}  [Chi-squared test of independence](https://ph142-ucb.github.io/su22/src/chisquared.pdf)":
         "Ch. 20"  
       "**Lab 11 (Extra Credit)**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due Aug. 11)":
-      "**Homework 11**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main)":
+      "**Homework 11**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) ([Solutions](https://ph142-ucb.github.io/su22/src/hw-sol/hw11-sol.pdf))":
       "**Quiz 9**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2156058) (Due Aug. 10th, 12:00 PM)":
   - date: 2022-08-10
     events:
