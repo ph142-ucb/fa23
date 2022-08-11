@@ -2,7 +2,7 @@
 name: Alan Hubbard (he/him/his)
 role: Instructor
 email: hubbard@stat.berkeley.edu
-website: https://publichealth.berkeley.edu/people/mi-suk-kang-dufour/
+website: https://publichealth.berkeley.edu/people/alan-hubbard/
 photo: 
 ---
 
