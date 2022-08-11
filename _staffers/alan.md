@@ -3,7 +3,7 @@ name: Alan Hubbard (he/him/his)
 role: Instructor
 email: hubbard@stat.berkeley.edu
 website: https://publichealth.berkeley.edu/people/mi-suk-kang-dufour/
-photo: https://ph142-ucb.github.io/su22/img/mi-suk.jpeg
+photo: 
 ---
 
 **Office Hours:** By appointment only. 
