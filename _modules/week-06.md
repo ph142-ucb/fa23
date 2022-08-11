@@ -1,27 +1,19 @@
 ---
 title: Week 6
 days:
-  - date: 2022-08-08
-    events: 
-      "**Lecture 24**{: .label .label-lec} [Comparing Two Proportions](https://ph142-ucb.github.io/su22/src/2prop.pdf)[Chi-Squared Goodness of Fit](https://ph142-ucb.github.io/su22/src/l25-goodnessoffit.pdf)":
-        "Ch. 19" 
-  - date: 2022-08-09
+  - date: 2022-09-26
     events:
-      "**Lecture 26**{: .label .label-lec}  [Chi-squared test of independence](https://ph142-ucb.github.io/su22/src/chisquared.pdf)":
-        "Ch. 20"  
-      "**Lab 11 (Extra Credit)**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) (Due Aug. 11)":
-      "**Homework 11**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main) ([Solutions](https://ph142-ucb.github.io/su22/src/hw-sol/hw11-sol.pdf))":
-      "**Quiz 9**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2156058) (Due Aug. 10th, 12:00 PM)":
-  - date: 2022-08-10
+      "**Lecture 14**{: .label .label-lec} Two-sample and Paired T-Tests":
+        "Ch. 15"
+  - date: 2022-09-28
     events:
-      "**Lecture 26**{: .label .label-lec} Review": 
-        "Ch. 21 & 22"
-  - date: 2022-08-11
+      "**Lecture 15**{: .label .label-lec} ANOVA, Tukey's HSD, Bonferroni Method": 
+        "Ch. 17"
+      "**Lab 6**{: .label .label-lab} on Datahub (Due September IDK)":
+      "**Homework 6**{: .label .label-hw} on Datahub":
+  - date: 2022-09-30
     events:
-      "**Lecture 27**{: .label .label-lec} [Bonus: Bootstraps and Permutations](https://ph142-ucb.github.io/su22/src/bootsperms.pdf)":
-      "**Review**{: .label .label-review} [Final Review](https://docs.google.com/presentation/d/1XFi-SKKw5QVdfei2UDrkS5scB121aXNt/edit?usp=sharing&ouid=114207480286449788047&rtpof=true&sd=true)":
-  - date: 2022-08-12
-    events:
-      "**Exam**{: .label .label-exam} **Midterm 3**":
-      "**Particpation**{: .label .label-parti} Data Project Part III Check-in (By End of Day)":
+      "**Lecture 16**{: .label .label-lec} Non-Parametrics":
+        "Ch. 17 & 18"
+      "**Quiz 6**{: .label .label-quiz} on Gradescope (Due Sept. IDKrd, 12:00 PM PST))":
 ---
