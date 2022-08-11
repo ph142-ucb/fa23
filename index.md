@@ -24,11 +24,11 @@ We will not be updating this page with announcements. For the latest announcemen
 
 ## Important Information
 
-- **Lectures**: Monday - Friday, 9:30 to 11 AM PST
-- **Location**: Dwinelle 145
+- **Lectures**: Monday, Wednesday, & Friday, 8:00 to 9:00 AM PST
+- **Location**: Dwinelle 155
 - **Content**: Please refer to the [course schedule]({{ site.baseurl }}/course-schedule)
-- **Course number**: 14716
-- **Email for non-content inquiries**: [142gsi@berkeley.edu](mailto:142gsi@berkeley.edu)
+- **Course number**: 29737
+- **Email for non-content inquiries [CHECK THIS]**: [ph142@berkeley.edu](mailto:ph142@berkeley.edu)
 
 ## Goals
 
