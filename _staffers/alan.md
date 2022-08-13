@@ -1,9 +1,9 @@
 ---
 name: Alan Hubbard (he/him/his)
 role: Instructor
-email: hubbard@stat.berkeley.edu
+email: hubbard@berkeley.edu
 website: https://publichealth.berkeley.edu/people/alan-hubbard/
-photo: 
+photo: https://ph142-ucb.github.io/fa22/img/alan.jpeg
 ---
 
 **Office Hours:** By appointment only. 
