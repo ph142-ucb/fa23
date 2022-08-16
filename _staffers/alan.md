@@ -6,7 +6,7 @@ website: https://publichealth.berkeley.edu/people/alan-hubbard/
 photo: https://ph142-ucb.github.io/fa22/img/alan.jpeg
 ---
 
-**Office Hours:** By appointment only. 
+**Office Hours:** Wednesdays 1:00 - 2:00 PM LOCATION TBD 
 
 2121 Berkeley Way West, Rm 5319
 

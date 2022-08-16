@@ -14,3 +14,5 @@ description: >-
 
 
 <iframe src="https://docs.google.com/document/d/1sEqBuqs7nsmCHphCB_Ttp8eYmvLYN4mb/preview" width="100%" height="800"></iframe>
+
+<iframe src="https://ph142-ucb.github.io/su22/src/dp/part2-instructions_su22.pdf" width="100%" height="800"></iframe>
