@@ -19,7 +19,7 @@ PH 142, Summer 2022
 </div>
 
 {% if site.announcements %}
-We will not be updating this page with announcements. For the latest announcements, make sure to check our [Piazza]().
+We will not be updating this page with announcements. For the latest announcements, make sure to check our Ed.
 {% endif %}
 
 ## Important Information

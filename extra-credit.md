@@ -8,7 +8,7 @@ description: >-
 # Extra Credit
 {: .no_toc }
 
-Would you like to earn some points back in the class? We have a few extra credit opportunities that you can choose from! [REVIEW]
+Would you like to earn some points back in the class? You can receive extra credit after each midterm.
 
 <!-- Out of the four different EC opportunities, please pick two to complete. You're more than welcome to do more than two, but you will only receive credit for two for an additional 1% to your final grade (for each EC assignment). -->
 
@@ -23,7 +23,7 @@ Would you like to earn some points back in the class? We have a few extra credit
 
 <hr>
 
-## Extra Credit - Compelling Study
+<!-- ## Extra Credit - Compelling Study
 
 One of the skills we hope that you develop during this course is the ability to assess scientific information with
 a critical eye. We particularly hope that you will be able to apply this skill to assessing information that is
@@ -31,7 +31,7 @@ relevant to decisions you or people you care about.
 
 <iframe src="https://ph142-ucb.github.io/su22/src/ec/ec-compelling-study.pdf" width="100%" height="800"></iframe>
 
-<hr>
+<hr> -->
 
 <!-- ## Extra Credit - Statistical Humor
 
@@ -51,9 +51,9 @@ solution guide corresponding to topics covered during that lecture.
 
 <iframe src="https://ph142-ucb.github.io/su22/src/ec/ec-question-creation.pdf" width="100%" height="800"></iframe>
 
-<hr>
+<hr> 
 
-## Extra Credit - Statistics is Everywhere
+<!-- ## Extra Credit - Statistics is Everywhere
 
 Throughout the term, we have (and will continue to) include a recurring “Statistics is Everywhere” segment,
 highlighting statistical content you may see in news, social media, or other places. The goal is to demonstrate
@@ -66,3 +66,5 @@ For this extra credit assignment, we are asking you to provide your own “Stati
 and demonstrate this kind of critical thinking
 
 <iframe src="https://ph142-ucb.github.io/su22/src/ec/ec-statistics-is-everywhere.pdf" width="100%" height="800"></iframe>
+
+<hr> -->
