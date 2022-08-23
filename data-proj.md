@@ -9,19 +9,22 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 ### PDF Links 
 
-[Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/su22/src/dp/part1-instructions_su22.pdf)  
+[Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/fa22/src/dp/part1_instructions.pdf)  
 
-[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/su22/src/dp/part2-instructions_su22.pdf)  
+- Note: Make sure to check in with your assigned GSI before the due date!
+- Please refer to the [Dataset Criteria](https://docs.google.com/document/d/1rV8MwHR8yLP1fM780hXVD1VS80QKJlBswcKhhmUh6SE/edit?usp=sharing) to ensure you are using a valid dataset!
 
-[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/su22/src/dp/part3-instructions_su22.pdf)  
+[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/su22/src/dp/part2_instructions.pdf)  
+
+[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/su22/src/dp/part3_instructions.pdf)  
 
 <hr>
 
 **Due dates:** 
 
-- **Part I is due on [NEW DATE] ]at 10pm PST**
-- **Part II is due on [NEW DATE] at 10pm PST**
-- **Part III is due on [NEW DATE] at 12pm noon[change?] PST**
+- **Part I is due on September 30th at 5pm PST**
+- **Part II is due on November 4th at 5pm PST**
+- **Part III is due on December 2nd at 5pm PST**
 
 **Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations.**
 
@@ -45,12 +48,7 @@ questions from Part I.
 
 Your task for this project is to find data that is related to health, public health, biology, sociology, demography, justice, or another topic affiliated with public health or biology. The data should have human beings as the unit of analysis, or be based on aggregates of human data (for example rates of mortality) for multiple units of analysis (multiple hospitals/clinics etc).  
 
-These data could be a preexisting data set that has been made publicly available on the Internet, data you have access to (and permission to use) from your lab or internship, or, less frequently, something you create (with appropriate permission) from a hard copy. You will then import your data into R and use it to demonstrate concepts covered in class in three submissions, each focused on one of the three sections of the class:
-
-* Part I: Collecting, Exploring, and Visualizing Data (Based on material in the textbook Edition 4 Chapters 1-8 and early lectures on `dplyr` and `ggplot2`)
-* Part II: From Chance to Inference (Edition 4 Chapters 9-16)
-* Part III: Statistical Inference (Edition 4 Chapters 17-25 and lectures on bootstrapping and permutation tests)
-
+These data could be a preexisting data set that has been made publicly available on the Internet, data you have access to (and permission to use) from your lab or internship, or, less frequently, something you create (with appropriate permission) from a hard copy. You will then import your data into R and use it to demonstrate concepts covered in class.
 
 The objectives of this assignment are to:
 
@@ -62,6 +60,16 @@ The objectives of this assignment are to:
 
 Because we are asking you to provide some visualizations and use the same dataset for parts II and III of the project, make sure that you choose a dataset with enough  observations (rows) to have something that you can interpret.  Confirm with your supporting GSI that you have an appropriate dataset.  You will also need a dataset large enough so that you can run a statistical test in part III.  A good general guide here is to choose a dataset with at least 100 observations, and at least 30 in each group if you are comparing across groups.  For example, if you are answering a question about mean days in the ICU between groups of patients exposed to some intervention procedure vs. not, you would want to have data on at least 100 patients, at least 30 of which had undergone the intervention and at least 30 of whom had not.  Your outcome of interest should be something that can be defined as a continuous, discrete or binary variable.  
 
-## Data Skills Demonstration Project Part II
+### Contacting Your Assigned GSI
 
-<iframe src="https://ph142-ucb.github.io/su22/src/dp/part2-instructions_su22.pdf" width="100%" height="800"></iframe>
+There are a few ways you can contact your GSI:
+
+1. Create a private post on Ed with your question(s)/images and tag your assigned GSI (Example: @Iris Yen)
+2. Attend your assigned GSI's Office Hours! All OH's are listed on the [course calendar](https://ph142-ucb.github.io/fa21/calendar/)
+3. Email <ph142@berkeley.edu> with the subject line "[Data Project] GSI ________ - ..."
+
+GSI's will do their best to respond to all emails/posts within 24 hours.
+
+## Data Skills Demonstration Project Part I
+
+<iframe src="https://ph142-ucb.github.io/fa22/src/dp/part1_instructions.pdf" width="100%" height="800"></iframe>

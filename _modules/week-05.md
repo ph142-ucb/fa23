@@ -4,7 +4,6 @@ days:
   - date: 2022-09-19
     events:
       "**Exam**{: .label .label-exam} Midterm 1":
-      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":
   - date: 2022-09-21
     events:
       "**Lecture 11**{: .label .label-lec} Introduction to Probability": 
