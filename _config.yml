@@ -30,8 +30,8 @@ permalink: pretty
 nav_links:
   Gradescope:
     - 'https://www.gradescope.com/courses/412128'
-  # Ed:
-  #   - 'https://piazza.com/class/l3t2e4yswjw520'
+  Ed:
+    - 'https://edstem.org/us/courses/26647'
   Datahub:
     - 'https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa22&urlpath=rstudio%2F&branch=main'
   Calculate Your Grade:
