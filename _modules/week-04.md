@@ -3,7 +3,7 @@ title: Week 4
 days:
   - date: 2022-09-12
     events:
-      "**Lecture 8**{: .label .label-lec} [Samples and Observational Studies]((https://ph142-ucb.github.io/fa22/src/lec/008-ObservationalStudies.pdf))":
+      "**Lecture 8**{: .label .label-lec} [Samples and Observational Studies](https://ph142-ucb.github.io/fa22/src/lec/008-ObservationalStudies.pdf)":
         "Ch. 6"
   - date: 2022-09-14
     events:
