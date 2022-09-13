@@ -16,7 +16,7 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 [Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/fa22/src/dp/part2_instructions.pdf)  
 
-[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/fa22/src/dp/part3_instructions.pdf)  
+[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/fa22/src/dp/part3-instructions.pdf)  
 
 <hr>
 
