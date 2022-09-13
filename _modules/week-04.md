@@ -7,8 +7,8 @@ days:
         "Ch. 6"
   - date: 2022-09-14
     events:
-      "**Lecture 9**{: .label .label-lec} Live Exercise: Sampling Births from US Territories": 
-      "**Lab**{: .label .label-lab} Midterm 1 Review Session":
+      "**Lecture 9**{: .label .label-lec} [Live Exercise: Sampling Births from US Territories](https://ph142-ucb.github.io/fa22/src/lec/009_Sampling-exercise.pdf)": 
+      "**Lab**{: .label .label-lab} [Midterm 1 Review Session](https://docs.google.com/presentation/d/18gfkPx1OmM-i9JM3Il0n2rd6efNcEzYF4qcatCebvLw/edit?usp=sharing)":
   - date: 2022-09-16
     events:
       "**Lecture 10**{: .label .label-lec} Designing Experiments":

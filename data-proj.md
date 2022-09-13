@@ -14,15 +14,15 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 - Note: Make sure to check in with your assigned GSI before the due date!
 - Please refer to the [Dataset Criteria](https://docs.google.com/document/d/1rV8MwHR8yLP1fM780hXVD1VS80QKJlBswcKhhmUh6SE/edit?usp=sharing) to ensure you are using a valid dataset!
 
-[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/su22/src/dp/part2_instructions.pdf)  
+[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/fa22/src/dp/part2_instructions.pdf)  
 
-[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/su22/src/dp/part3_instructions.pdf)  
+[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/fa22/src/dp/part3_instructions.pdf)  
 
 <hr>
 
 **Due dates:** 
 
-- **Part I is due on September 30th at 5pm PST**
+- **Part I is due on October 7th at 5pm PST**
 - **Part II is due on November 4th at 5pm PST**
 - **Part III is due on December 2nd at 5pm PST**
 
