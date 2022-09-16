@@ -11,7 +11,7 @@ days:
       "**Lab**{: .label .label-lab} [Midterm 1 Review Session](https://docs.google.com/presentation/d/18gfkPx1OmM-i9JM3Il0n2rd6efNcEzYF4qcatCebvLw/edit?usp=sharing)":
   - date: 2022-09-16
     events:
-      "**Lecture 10**{: .label .label-lec} Designing Experiments":
+      "**Lecture 10**{: .label .label-lec} [Designing Experiments](https://ph142-ucb.github.io/fa22/src/lec/010_Designing-experiments_slides.pdf)":
         "Ch. 7"
-      "**Quiz 3**{: .label .label-quiz} on Gradescope (Due 5:00 PM PST)":
+      "**Quiz 3**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/412128/assignments/2258995) (Due 5:00 PM PST)":
 ---
