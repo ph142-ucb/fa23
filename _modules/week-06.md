@@ -3,7 +3,7 @@ title: Week 6
 days:
   - date: 2022-09-26
     events:
-      "**Lecture 13**{: .label .label-lec} General Rules of Probability cont.":
+      "**Lecture 13**{: .label .label-lec} [General Rules of Probability cont.](https://ph142-ucb.github.io/fa22/src/lec/013_moreProbSlides.pdf)":
   - date: 2022-09-28
     events:
       "**Lecture 14**{: .label .label-lec} The Normal Distribution Part I": 
