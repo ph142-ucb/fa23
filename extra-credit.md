@@ -49,7 +49,7 @@ assignment. To recover up to 3 marks on the midterm, reinforce your understandin
 creativity, you can make a short explanation of a concept from the course that includes sample question and
 solution guide corresponding to topics covered during that lecture.
 
-<iframe src="https://ph142-ucb.github.io/su22/src/ec/ec-question-creation.pdf" width="100%" height="800"></iframe>
+<iframe src="https://ph142-ucb.github.io/fa22/src/ec/ec-question-creation.pdf" width="100%" height="800"></iframe>
 
 <hr> 
 

@@ -13,5 +13,5 @@ days:
   - date: 2022-09-30
     events:
       "**Lecture 15**{: .label .label-lec} The Normal Distribution Part II":
-      "**Quiz 4**{: .label .label-quiz} on Gradescope (Due 5:00 PM PST))":
+      "**Quiz 4**{: .label .label-quiz} on Gradescope (Due 5:00 PM PST)":
 ---
