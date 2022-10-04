@@ -9,8 +9,8 @@ days:
   - date: 2022-10-05
     events:
       "**Lecture 17**{: .label .label-lec} The Poisson Distribution": 
-      "**Lab 6**{: .label .label-lab} Normal, Binomial, and Poisson Distributions (Due October 7)":
-      "**Homework 6**{: .label .label-hw} on Datahub":
+      "**Lab 6**{: .label .label-lab} [Normal, Binomial, and Poisson Distributions](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa22&urlpath=rstudio%2F&branch=main) (Due October 7)":
+      "**Homework 6**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa22&urlpath=rstudio%2F&branch=main)":
   - date: 2022-10-07
     events:
       "**Lecture 18**{: .label .label-lec} Sampling Distributions for a Mean and Proportion; Central Limit Theorem":
