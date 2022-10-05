@@ -8,7 +8,7 @@ days:
       "**Participation**{: .label .label-parti} [Mid-Semester Feedback Survey](https://forms.gle/HAWJTkZgtzH2GtEy9)":
   - date: 2022-10-05
     events:
-      "**Lecture 17**{: .label .label-lec} The Poisson Distribution": 
+      "**Lecture 17**{: .label .label-lec} [The Poisson Distribution](https://ph142-ucb.github.io/fa22/src/lec/017_Poisson-distrn.pdf)": 
       "**Lab 6**{: .label .label-lab} [Normal, Binomial, and Poisson Distributions](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa22&urlpath=rstudio%2F&branch=main) (Due October 7)":
       "**Homework 6**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa22&urlpath=rstudio%2F&branch=main)":
   - date: 2022-10-07
