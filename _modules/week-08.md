@@ -3,7 +3,7 @@ title: Week 8
 days:
   - date: 2022-10-10
     events:
-      "**Lecture 19**{: .label .label-lec} Confidence Intervals for a Mean with Known Standard Deviation":
+      "**Lecture 19**{: .label .label-lec} [Confidence Intervals for a Mean with Known Standard Deviation](https://ph142-ucb.github.io/fa22/src/lec/019_Intro-to-inference.pdf)":
         "Ch. 14"
   - date: 2022-10-12
     events:
