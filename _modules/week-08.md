@@ -7,7 +7,7 @@ days:
         "Ch. 14"
   - date: 2022-10-12
     events:
-      "**Lecture 20**{: .label .label-lec} Hypothesis Tests for a Mean with Known Standard Deviation": 
+      "**Lecture 20**{: .label .label-lec} [Hypothesis Tests for a Mean with Known Standard Deviation](https://ph142-ucb.github.io/fa22/src/lec/020_Hypothesis-testing.pdf)": 
         "Ch. 15"
       "**Lab 7**{: .label .label-lab} [Classroom Simulation on the Central Limit Theorem and Confidence Intervals](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa22&urlpath=rstudio%2F&branch=main) (Due October 14)":
   - date: 2022-10-14
