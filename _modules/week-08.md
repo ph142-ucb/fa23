@@ -9,7 +9,7 @@ days:
     events:
       "**Lecture 20**{: .label .label-lec} Hypothesis Tests for a Mean with Known Standard Deviation": 
         "Ch. 15"
-      "**Lab 7**{: .label .label-lab} Classroom Simulation on the Central Limit Theorem and Confidence Intervals (Due October 14)":
+      "**Lab 7**{: .label .label-lab} [Classroom Simulation on the Central Limit Theorem and Confidence Intervals](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa22&urlpath=rstudio%2F&branch=main) (Due October 14)":
   - date: 2022-10-14
     events:
       "**Lecture 21**{: .label .label-lec} Power, Type I and Type II Error, Sample Size":
