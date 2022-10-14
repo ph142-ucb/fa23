@@ -12,6 +12,6 @@ days:
       "**Lab 7**{: .label .label-lab} [Classroom Simulation on the Central Limit Theorem and Confidence Intervals](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa22&urlpath=rstudio%2F&branch=main) (Due October 14)":
   - date: 2022-10-14
     events:
-      "**Lecture 21**{: .label .label-lec} Power, Type I and Type II Error, Sample Size":
-      "**Quiz 6**{: .label .label-quiz} on Gradescope (Due 5:00 PM PST))":
+      "**Lecture 21**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size](https://ph142-ucb.github.io/fa22/src/lec/021_Inference-in-practice.pdf)":
+      "**Quiz 6**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/412128/assignments/2343811) (Due 5:00 PM PST))":
 ---
