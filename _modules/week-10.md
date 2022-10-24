@@ -3,7 +3,7 @@ title: Week 10
 days:
   - date: 2022-10-24
     events:
-      "**Lecture 24**{: .label .label-lec} Comparing Two Means":
+      "**Lecture 24**{: .label .label-lec} [Comparing Two Means](https://ph142-ucb.github.io/fa22/src/lec/024_Comparing-two-means.pdf)":
         "Ch. 18"
   - date: 2022-10-26
     events:
@@ -15,5 +15,5 @@ days:
     events:
       "**Lecture 26**{: .label .label-lec} Inference for a Population Proportion":
         "Ch. 19"
-      "**Quiz 7**{: .label .label-quiz} on Gradescope (Due 5:00 PM PST))":
+      "**Quiz 7**{: .label .label-quiz} on Gradescope (Due 5:00 PM PST)":
 ---
