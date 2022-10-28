@@ -10,7 +10,7 @@ days:
       "**Lecture 25**{: .label .label-lec} [Matched Comparisons](https://ph142-ucb.github.io/fa22/src/lec/025_Paired-t-test.pdf)": 
         "Ch. 17"
       "**Lab 8**{: .label .label-lab} [Paired and Two Sample T-Tests](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa22&urlpath=rstudio%2F&branch=main) (Due October 28)":
-      "**Homework 7**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa22&urlpath=rstudio%2F&branch=main) ([Solutions](https://ph142-ucb.github.io/fa22/src/hw-sol/hw06-sol.pdf))":
+      "**Homework 7**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa22&urlpath=rstudio%2F&branch=main) ([Solutions](https://ph142-ucb.github.io/fa22/src/hw-sol/hw07-sol.pdf))":
   - date: 2022-10-28
     events:
       "**Lecture 26**{: .label .label-lec} [Inference for a Population Proportion](https://ph142-ucb.github.io/fa22/src/lec/026_Inference-population-proportion.pdf)":
