@@ -13,7 +13,7 @@ days:
       "**Homework 7**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa22&urlpath=rstudio%2F&branch=main)":
   - date: 2022-10-28
     events:
-      "**Lecture 26**{: .label .label-lec} Inference for a Population Proportion":
+      "**Lecture 26**{: .label .label-lec} [Inference for a Population Proportion](https://ph142-ucb.github.io/fa22/src/lec/026_Inference-population-proportion.pdf)":
         "Ch. 19"
       "**Quiz 7**{: .label .label-quiz} on Gradescope (Due 5:00 PM PST)":
 ---
