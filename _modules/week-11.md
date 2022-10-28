@@ -14,6 +14,6 @@ days:
     events:
       "**Lecture 29**{: .label .label-lec} The Chi-square Test for Goodness of Fit":
         "Ch. 21"
-      "**Quiz 8**{: .label .label-quiz} on Gradescope (Due 5:00 PM PST))":
+      "**Quiz 8**{: .label .label-quiz} on Gradescope (Due 5:00 PM PST)":
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 5:00 PM PST)":
 ---
