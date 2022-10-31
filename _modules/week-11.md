@@ -3,7 +3,7 @@ title: Week 11
 days:
   - date: 2022-10-31
     events:
-      "**Lecture 27**{: .label .label-lec} Comparing Two Proportions":
+      "**Lecture 27**{: .label .label-lec} [Comparing Two Proportions](https://ph142-ucb.github.io/fa22/src/lec/027_Comparing-two-proportions.pdf)":
         "Ch. 20"
   - date: 2022-11-02
     events:
