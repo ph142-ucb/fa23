@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: PH 142
 description: Website for PH 142 Fall 2022
-author: Iris Yen
-email: irisyen@berkeley.edu
-baseurl: '/fa22' # the subpath of your site, e.g. /blog
+author: Paula Marquez
+email: paulamarquez@berkeley.edu
+baseurl: '/fa23' # the subpath of your site, e.g. /blog
 url: 'https://ph142-ucb.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "schedule.md", "textbook.md"]
 
