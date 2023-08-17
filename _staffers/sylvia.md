@@ -1,5 +1,5 @@
 ---
-name: Joan Shim (she/her/hers)
+name: Sylvia Song (she/her/hers)
 role: Teaching Assistant
 email: 
 website: 
