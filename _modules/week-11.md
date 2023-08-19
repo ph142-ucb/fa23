@@ -1,20 +1,19 @@
 ---
 title: Week 11
 days:
-  - date: 2022-10-31
+  - date: 2022-10-30
     events:
-      "**Lecture 27**{: .label .label-lec} [Comparing Two Proportions](https://ph142-ucb.github.io/fa22/src/lec/027_Comparing-two-proportions.pdf)":
+      "**Lecture 27**{: .label .label-lec} [Comparing Two Proportions]()":
         "Ch. 20"
-  - date: 2022-11-02
+  - date: 2022-11-01
     events:
-      "**Lecture 28**{: .label .label-lec} [Bootstrapping Confidence Intervals](https://ph142-ucb.github.io/fa22/src/lec/028_bootstrapping.pdf)": 
-      "**Lab 9**{: .label .label-lab} [Inference for Proportions](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa22&urlpath=rstudio%2F&branch=main) (Due November 4)":
-      "**Homework 8**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa22&urlpath=rstudio%2F&branch=main) ([Solutions](https://ph142-ucb.github.io/fa22/src/hw-sol/hw08-sol.pdf))":
-  - date: 2022-11-04
+      "**Lecture 28**{: .label .label-lec} [Bootstrapping Confidence Intervals]()": 
+      
+  - date: 2022-11-03
     events:
-      "**Lecture 29**{: .label .label-lec} [The Chi-square Test for Goodness of Fit](https://ph142-ucb.github.io/fa22/src/lec/029_Inference-categorical-var-greater-than-2-levels.pdf)":
+      "**Lecture 29**{: .label .label-lec} [The Chi-square Test for Goodness of Fit]()":
         "Ch. 21"
-      "**Quiz 8**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/412128/assignments/2411282) (Due 5:00 PM PST)":
+      
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 5:00 PM PST)":
 ---
 

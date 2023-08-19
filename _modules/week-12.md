@@ -1,16 +1,15 @@
 ---
 title: Week 12
 days:
-  - date: 2022-11-07
+  - date: 2022-11-06
     events:
-      "**Lecture 30**{: .label .label-lec} [The Chi-square Test for Two-way Tables](https://ph142-ucb.github.io/fa22/src/lec/030_Inference-two-way-tables.pdf)":
+      "**Lecture 30**{: .label .label-lec} [The Chi-square Test for Two-way Tables]()":
         "Ch. 22"
-  - date: 2022-11-09
+  - date: 2022-11-08
     events:
-      "**Lecture 31**{: .label .label-lec} [Permutation Tests](https://ph142-ucb.github.io/fa22/src/lec/031_Permutation-Tests.pdf)": 
-      "**Lab 10**{: .label .label-lab} [Chi-square Test](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa22&urlpath=rstudio%2F&branch=main) (Due November 14)":
-      "**Homework 9**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa22&urlpath=rstudio%2F&branch=main) ([Solutions](https://ph142-ucb.github.io/fa22/src/hw-sol/hw09-sol.pdf))":
-  - date: 2022-11-11
+      "**Lecture 31**{: .label .label-lec} [Permutation Tests]()": 
+      
+  - date: 2022-11-10
     events:
       "**No Class Veterans Day**":
 ---
