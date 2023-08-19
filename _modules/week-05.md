@@ -7,11 +7,11 @@ days:
 
   - date: 2022-09-20
     events:
-      "**Lecture 11**{: .label .label-lec} [Introduction to Probability]()": 
+      "**Lecture 11**{: .label .label-lec} Introduction to Probability ": 
         "Ch. 9"
       
   - date: 2022-09-22
     events:
-      "**Lecture 12**{: .label .label-lec} [General Rules of Probability]()":
+      "**Lecture 12**{: .label .label-lec} General Rules of Probability ":
         "Ch. 10"
 ---

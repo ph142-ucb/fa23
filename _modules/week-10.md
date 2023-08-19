@@ -3,16 +3,16 @@ title: Week 10
 days:
   - date: 2022-10-23
     events:
-      "**Lecture 24**{: .label .label-lec} [Comparing Two Means]()":
+      "**Lecture 24**{: .label .label-lec} Comparing Two Means ":
         "Ch. 18"
   - date: 2022-10-25
     events:
-      "**Lecture 25**{: .label .label-lec} [Matched Comparisons]()": 
+      "**Lecture 25**{: .label .label-lec} Matched Comparisons ": 
         "Ch. 17"
       
   - date: 2022-10-27
     events:
-      "**Lecture 26**{: .label .label-lec} [Inference for a Population Proportion]()":
+      "**Lecture 26**{: .label .label-lec} Inference for a Population Proportion ":
         "Ch. 19"
       
 ---
