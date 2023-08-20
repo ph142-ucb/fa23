@@ -45,10 +45,11 @@ description: Resources for students
 
 | Practice Exams | Year                          | Solutions                      |
 |----------------|-------------------------------|--------------------------------|
-| Midterm 1      | [Fa18 Midterm 1](https://ph142-ucb.github.io/fa21/src/resources/fa18-mt1.pdf) ([Q2 Handout](https://ph142-ucb.github.io/fa21/src/resources/fa18-mt1-supp.pdf)) | [Fa18 Midterm 1 Solutions](https://ph142-ucb.github.io/sp22/src/resource/fa18-mt1-sol.pdf) |
-|                | [Fa20 Midterm 1](https://ph142-ucb.github.io/fa21/src/resources/fa20-mt1.pdf) | [Fa20 Midterm 1 Solutions](https://ph142-ucb.github.io/sp22/src/resource/fa20-mt1-sol.pdf) |
-|                | [Sp21 Midterm 1](https://ph142-ucb.github.io/fa21/src/resources/sp21-mt1.pdf) | [Sp21 Midterm 1 Solutions](https://ph142-ucb.github.io/fa21/src/resources/sp21-mt1-sol.pdf) |
-|                | [Fa21 Midterm 1](https://ph142-ucb.github.io/fa22/src/Fall_2021_midterm1.pdf) | [Fa21 Midterm 1 Solutions](https://ph142-ucb.github.io/fa22/src/Fall_2021_midterm_1_sol.pdf) |
+| Midterm 1      | [Fa18 Midterm 1](https://ph142-ucb.github.io/fa23/src/resources/fa18-mt1.pdf) ([Q2 Handout](https://ph142-ucb.github.io/fa23/src/resources/fa18-mt1-supp.pdf)) | [Fa18 Midterm 1 Solutions](https://ph142-ucb.github.io/fa23/src/resources/fa18-mt1-sol.pdf) |
+|                | [Fa20 Midterm 1](https://ph142-ucb.github.io/fa23/src/resources/fa20-mt1.pdf) | [Fa20 Midterm 1 Solutions](https://ph142-ucb.github.io/fa23/src/resources/fa20-mt1-sol.pdf) |
+|                | [Sp21 Midterm 1](https://ph142-ucb.github.io/fa23/src/resources/sp21-mt1.pdf) | [Sp21 Midterm 1 Solutions](https://ph142-ucb.github.io/fa23/src/resources/sp21-mt1-sol.pdf) |
+|                | [Fa21 Midterm 1](https://ph142-ucb.github.io/fa23/src/resources/fa21-mt1.pdf) | [Fa21 Midterm 1 Solutions](https://ph142-ucb.github.io/fa23/src/fa21-mt1-sol.pdf) |
+<!---
 |----------------|-------------------------------|--------------------------------|
 | Midterm 2      | [Fa18 Midterm 2](https://ph142-ucb.github.io/sp22/src/resource/mt2_fa18.pdf) | [Fa18 Midterm 2 Solutions](https://ph142-ucb.github.io/sp22/src/resource/mt2_fa18_SOLUTIONS.pdf) |
 |                | [Fa20 Midterm 2](https://ph142-ucb.github.io/sp22/src/resource/mt2_fa20.pdf) | [Fa20 Midterm 2 Solutions](https://ph142-ucb.github.io/sp22/src/resource/mt2_fa20_SOLUTIONS.pdf) |
@@ -58,11 +59,7 @@ description: Resources for students
 | Final          | [Fa19 Final](https://ph142-ucb.github.io/sp22/src/resource/final_fa19.pdf) | [Fa19 Final Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_fa19_SOLUTIONS.pdf) |
 |                | [Fa20 Final](https://ph142-ucb.github.io/sp22/src/resource/final_fa20.pdf) | [Fa20 Final Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_fa20_SOLUTIONS.pdf) |
 |                | [Sp21 Final Takehome](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_takehome.pdf) | [Sp21 Final Takehome Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_takehome_SOLUTIONS.pdf) |
-|                | [Sp21 Final Gradescope](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_timed.pdf) | [Sp21 Final Gradescope Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_timed_SOLUTIONS.pdf) |
+|                | [Sp21 Final Gradescope](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_timed.pdf) | [Sp21 Final Gradescope Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_timed_SOLUTIONS.pdf) | --> 
 
 
-<!---
-|------------|-------------------------------|--------------------------------|
-| Final      | [Fa19 Final](https://ph142-ucb.github.io/fa21/src/resources/final/fa19_final.pdf) | [Fa19 Final Solutions](https://ph142-ucb.github.io/fa21/src/resources/final/fa19_final_sol.pdf) |
-|            | [Sp19 Final](https://ph142-ucb.github.io/fa21/src/resources/final/sp19_final.pdf) | [Sp19 Final Solutions](https://ph142-ucb.github.io/fa21/src/resources/final/sp19_final_sol.pdf) |
-|            | [Extra Practice Questions](https://ph142-ucb.github.io/fa21/src/resources/final/extra_practice_q.pdf) | [Extra Practice Questions Solutions](https://ph142-ucb.github.io/fa21/src/resources/final/extra_practice_q_sol.pdf) -->
+
