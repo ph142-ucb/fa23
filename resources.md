@@ -7,7 +7,7 @@ description: Resources for students
 # Resources
 
 - [PH 142 Course Overview Interactive Presentation](https://prezi.com/p/xpqdo6z9nbhw/learning-from-data/)
-- [FAQs and Common Errors](https://ph142-ucb.github.io/sp22/faq/)
+- [FAQs and Common Errors](https://ph142-ucb.github.io/fa23/src/resources/faq/)
 - [PH 142 R Cheat Sheet](https://docs.google.com/document/d/1mVhjngYDDcrlOvaBB5SfuKaU3O1btxZU45BOj0DXc48/edit#) 
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 - [Lab Notes & Quick Checks](https://docs.google.com/document/d/1mzU-mUZRzfSP5I1XY0tTvm5EfVqJfd9EBZgEpLFlIzo/edit#heading=h.4im559r5sk9y)
@@ -49,6 +49,7 @@ description: Resources for students
 |                | [Fa20 Midterm 1](https://ph142-ucb.github.io/fa23/src/resources/fa20-mt1.pdf) | [Fa20 Midterm 1 Solutions](https://ph142-ucb.github.io/fa23/src/resources/fa20-mt1-sol.pdf) |
 |                | [Sp21 Midterm 1](https://ph142-ucb.github.io/fa23/src/resources/sp21-mt1.pdf) | [Sp21 Midterm 1 Solutions](https://ph142-ucb.github.io/fa23/src/resources/sp21-mt1-sol.pdf) |
 |                | [Fa21 Midterm 1](https://ph142-ucb.github.io/fa23/src/resources/fa21-mt1.pdf) | [Fa21 Midterm 1 Solutions](https://ph142-ucb.github.io/fa23/src/fa21-mt1-sol.pdf) |
+
 <!---
 |----------------|-------------------------------|--------------------------------|
 | Midterm 2      | [Fa18 Midterm 2](https://ph142-ucb.github.io/sp22/src/resource/mt2_fa18.pdf) | [Fa18 Midterm 2 Solutions](https://ph142-ucb.github.io/sp22/src/resource/mt2_fa18_SOLUTIONS.pdf) |
