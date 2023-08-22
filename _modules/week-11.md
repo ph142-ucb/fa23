@@ -17,4 +17,3 @@ days:
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 5:00 PM PST)":
 ---
 
-0
