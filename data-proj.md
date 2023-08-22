@@ -7,6 +7,7 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 # Data Skills Demonstration Project
 
+<!---
 ### PDF Links 
 
 [Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/fa22/src/dp/part1_instructions.pdf)  
@@ -17,14 +18,15 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 [Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/fa22/src/dp/part2_instructions.pdf)  
 
 [Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/fa22/src/dp/part3-instructions.pdf)  
+-->
 
 <hr>
 
 **Due dates:** 
 
-- **Part I is due on October 7th at 5pm PST**
-- **Part II is due on November 4th at 5pm PST**
-- **Part III is due on December 2nd at 5pm PST**
+- **Part I is due on October 6th at 5pm PST**
+- **Part II is due on November 3rd at 5pm PST**
+- **Part III is due on December 1st at 5pm PST**
 
 **Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations.**
 
@@ -65,11 +67,13 @@ Because we are asking you to provide some visualizations and use the same datase
 There are a few ways you can contact your GSI:
 
 1. Create a private post on Ed with your question(s)/images and tag your assigned GSI (Example: @Iris Yen)
-2. Attend your assigned GSI's Office Hours! All OH's are listed on the [course calendar](https://ph142-ucb.github.io/fa21/calendar/)
-3. Email <ph142@berkeley.edu> with the subject line "[Data Project] GSI ________ - ..."
+2. Attend your assigned GSI's Office Hours! All OH's are listed on the [course calendar](https://ph142-ucb.github.io/fa23/calendar/)
+3. Email <ph142Fall2023@berkeley.edu> with the subject line "[Data Project] GSI ________ - ..."
 
 GSI's will do their best to respond to all emails/posts within 24 hours.
 
+<!---
 ## Data Skills Demonstration Project Part I
 
-<iframe src="https://ph142-ucb.github.io/fa22/src/dp/part1_instructions.pdf" width="100%" height="800"></iframe>
+<iframe src="https://ph142-ucb.github.io/fa22/src/dp/part1_instructions.pdf" width="100%" height="800"></iframe> 
+-->
