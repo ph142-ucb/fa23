@@ -25,7 +25,7 @@ We will not be updating this page with announcements. For the latest announcemen
 ## Important Information
 
 - **Lectures**: Monday, Wednesday, & Friday, 8:00 to 9:00 AM PST
-- **Location**: Internet/Online 
+- **Location**: [Internet/Online](https://berkeley.zoom.us/j/95029595547) 
 - **Content**: Please refer to the [course schedule]({{ site.baseurl }}/course-schedule)
 - **Course number**: 30033
 - **Email for non-content inquiries**: [ph142Fall2023@berkeley.edu](mailto:ph142fall2023@berkeley.edu)
