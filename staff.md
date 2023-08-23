@@ -35,14 +35,14 @@ For lab section schedules for each GSI, see the [calendar]({{ site.baseurl }}/ca
   {% endfor %}
 </div>
 
-## Tutor
+<!--- ## Tutor
 
 <div class="role">
   {% assign tutor = site.staffers | where: 'role', 'Tutor' %}
   {% for staffer in tutor %}
   {{ staffer }}
   {% endfor %}
-</div> 
+</div> -->
 
 ## Course Infrastructure
 
