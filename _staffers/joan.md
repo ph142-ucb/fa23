@@ -1,6 +1,6 @@
 ---
 name: Joan Shim (she/her/hers)
-role: Teaching Assistant
+role: Lead GSI
 email: 
 website: 
 photo: https://ph142-ucb.github.io/fa23/img/joan.jpg

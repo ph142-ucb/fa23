@@ -18,13 +18,13 @@ For lab section schedules for each GSI, see the [calendar]({{ site.baseurl }}/ca
   {% endfor %}
 </div>
 
-<!-- ## Lead GSI
+## Lead GSI
 <div class="role">
   {% assign lead_gsi = site.staffers | where: 'role', 'Lead GSI' %}
   {% for staffer in lead_gsi %}
   {{ staffer }}
   {% endfor %}
-</div> -->
+</div> 
 
 ## GSIs
 
