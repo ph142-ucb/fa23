@@ -16,6 +16,7 @@ days:
     events:
       "**Lecture 5**{: .label .label-lec} Exploring Relationships Between Two Variables ":
         "Ch. 3"
+      "**Quiz 1**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/575069) (Released Aug 31st, 5:00 PM PST ; Due Sept. 1st, 5:00 PM PST)":
       
 ---
 
