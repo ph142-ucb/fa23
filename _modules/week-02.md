@@ -9,7 +9,7 @@ days:
 
   - date: 2022-08-30
     events:
-      "**Lecture 4**{: .label .label-lec} Visualizing Distributions for One Variable ; Numerically Summarizing Spread and Central Tendency ": 
+      "**Lecture 4**{: .label .label-lec} [Visualizing Univariate Data (Ch. 1)](https://ph142-ucb.github.io/fa23/src/lec/Lec-4A_Visualizing-distributions.pdf) ; [Numerically Summarizing Spread and Central Tendency (Ch. 2)](https://ph142-ucb.github.io/fa23/src/lec/Lec4B_Summarizing-distributions.pdf) ": 
         "Ch. 1 & 2" 
       
   - date: 2022-09-01
