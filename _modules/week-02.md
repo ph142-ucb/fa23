@@ -14,7 +14,7 @@ days:
       
   - date: 2022-09-01
     events:
-      "**Lecture 5**{: .label .label-lec} [Exploring Relationships Between Two Variables](https://ph142-ucb.github.io/fa23/src/lec/Lec5_Exploring-relationships.pdf) ":
+      "**Lecture 5**{: .label .label-lec} [Exploring Relationships Between Two Variables](https://ph142-ucb.github.io/fa23/src/lec/Lec5_Exploring-relationships.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/-Wbm89bnchpS1HQLgUsKygufo4sukdzbw7avSsK9M3u_eu5vqjQWCyi6nk7fsIiz.e080XQkGfz2sgxX0)":
         "Ch. 3"
       "**Quiz 1**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/575069) (Released Aug 31st, 5 PM PST ; Due Sept. 1st, 5 PM PST)":
       
