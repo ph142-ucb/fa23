@@ -9,7 +9,7 @@ days:
 
   - date: 2022-09-06
     events:
-      "**Lecture 6**{: .label .label-lec} Introduction to Regression ": 
+      "**Lecture 6**{: .label .label-lec} [Introduction to Regression](https://ph142-ucb.github.io/fa23/src/lec/Lec06_Intro-to-regression.pdf)": 
         "Ch. 4"
       
   - date: 2022-09-08
