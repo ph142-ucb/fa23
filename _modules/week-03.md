@@ -5,7 +5,7 @@ days:
     events:
       "**No Class: Labor Day**":
       "**Lab 3**{: .label .label-lab} [Global cesarean delivery rates and GDP](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main) (Due Sept 8th)":
-      "**Homework 3**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main) ":
+      "**Homework 3**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main)":
 
   - date: 2022-09-06
     events:
