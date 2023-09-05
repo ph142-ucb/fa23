@@ -12,6 +12,5 @@ days:
   - date: 2022-09-29
     events:
       "**Lecture 15**{: .label .label-lec} The Normal Distribution Part II ":
-      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part I (Due 5:00 PM PST)":
       
 ---
