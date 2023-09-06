@@ -9,7 +9,7 @@ days:
 
   - date: 2022-09-06
     events:
-      "**Lecture 6**{: .label .label-lec} [Introduction to Regression](https://ph142-ucb.github.io/fa23/src/lec/Lec06_Intro-to-regression.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/KAxRLmXGBLnptdWEQwUIGQ1cTleRfrV5cu6pV8sA3ggs4yS1PMrlHV1I1tH1tZpF.CJqVn-K2vlal6pE_)": 
+      "**Lecture 6**{: .label .label-lec} [Introduction to Regression](https://ph142-ucb.github.io/fa23/src/lec/Lec06_Intro-to-regression.pdf)": 
         "Ch. 4"
       
   - date: 2022-09-08
