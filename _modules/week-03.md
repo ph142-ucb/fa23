@@ -14,7 +14,7 @@ days:
       
   - date: 2022-09-08
     events:
-      "**Lecture 7**{: .label .label-lec} [Two-way Tables](https://ph142-ucb.github.io/fa23/src/lec/Lec7_Two-way-tables.pdf)":
+      "**Lecture 7**{: .label .label-lec} [Two-way Tables](https://ph142-ucb.github.io/fa23/src/lec/Lec7_Two-way-tables.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/uG3M5LmBSkAzJ4itCV7SVVN-iA-ahw8U49NtY3PUAEOJQ4Rjcvox-1OYMTsZBVdO.bxpgqUbvY3NJoSmV)":
         "Ch. 5"
       
 ---
