@@ -12,5 +12,6 @@ days:
   - date: 2022-09-29
     events:
       "**Lecture 15**{: .label .label-lec} The Normal Distribution Part II ":
+      "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part 1 ":
       
 ---
