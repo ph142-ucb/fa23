@@ -9,6 +9,7 @@ days:
     events:
       "**Lecture 20**{: .label .label-lec} Hypothesis Tests for a Mean with Known Standard Deviation ": 
         "Ch. 15"
+      "**Lab 7**{: .label .label-lab}":
       
   - date: 2022-10-13
     events:

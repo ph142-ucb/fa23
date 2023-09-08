@@ -7,7 +7,8 @@ days:
         "Ch. 22"
   - date: 2022-11-08
     events:
-      "**Lecture 31**{: .label .label-lec} Permutation Tests ": 
+      "**Lecture 31**{: .label .label-lec} Permutation Tests ":
+      "**Lab 10**{: .label .label-lab}":
       
   - date: 2022-11-10
     events:

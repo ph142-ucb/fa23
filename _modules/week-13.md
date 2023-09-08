@@ -8,6 +8,7 @@ days:
   - date: 2022-11-15
     events:
       "**Lecture 33**{: .label .label-lec} Inference for Regression II": 
+      "**Lab 11**{: .label .label-lab}":
       
   - date: 2022-11-17
     events:

@@ -8,7 +8,8 @@ days:
       "**Participation**{: .label .label-parti} Mid Semester Feedback Survey ":
   - date: 2022-10-04
     events:
-      "**Lecture 17**{: .label .label-lec} The Poisson Distribution ": 
+      "**Lecture 17**{: .label .label-lec} The Poisson Distribution ":
+       "**Lab 6**{: .label .label-lab}":
       
   - date: 2022-10-06
     events:

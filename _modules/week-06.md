@@ -8,6 +8,7 @@ days:
     events:
       "**Lecture 14**{: .label .label-lec} The Normal Distribution Part I ": 
         "Ch. 11"
+      "**Lab 5**{: .label .label-lab}":
       
   - date: 2022-09-29
     events:

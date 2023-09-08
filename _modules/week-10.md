@@ -9,6 +9,7 @@ days:
     events:
       "**Lecture 25**{: .label .label-lec} Matched Comparisons ": 
         "Ch. 17"
+      "**Lab 8**{: .label .label-lab}":
       
   - date: 2022-10-27
     events:

@@ -9,6 +9,7 @@ days:
     events:
       "**Lecture 11**{: .label .label-lec} Introduction to Probability ": 
         "Ch. 9"
+      "**Lab 4**{: .label .label-lab} ":
       
   - date: 2022-09-22
     events:
