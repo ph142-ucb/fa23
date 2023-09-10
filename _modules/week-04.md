@@ -12,9 +12,13 @@ days:
         "Ch. 6"
        
       "**Lab**{: .label .label-lab} Midterm 1 Review Session ":
+
   - date: 2022-09-15
     events:
       "**Lecture 9**{: .label .label-lec} Live Exercise: Sampling Births from US Territories ":
+
+  - date: 
+    events:
       "**Lecture 10**{: .label .label-lec} Designing Experiments ":
         "Ch. 7"
       
