@@ -15,5 +15,6 @@ days:
     events:
       "**Lecture 26**{: .label .label-lec} Inference for a Population Proportion ":
         "Ch. 19"
+      "**Quiz 7**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/575069) (Open 24hr, Due Oct 27th, 5 PM PST)":
       
 ---

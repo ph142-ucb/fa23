@@ -15,6 +15,7 @@ days:
     events:
       "**Lecture 18**{: .label .label-lec} Sampling Distributions for a Mean and Proportion; Central Limit Theorem ":
         "Ch. 13"
+      "**Quiz 5**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/575069) (Open 24hr, Due Oct. 6th, 5 PM PST)":
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part I (Due 5:00 PM PST)":
       
 ---

@@ -16,6 +16,7 @@ days:
   - date: 2022-09-15
     events:
       "**Lecture 9**{: .label .label-lec} Live Exercise: Sampling Births from US Territories ":
+      "**Quiz 3**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/575069) (Open 24hr, Due Sept. 15th, 5 PM PST)":
 
   - date: 
     events:

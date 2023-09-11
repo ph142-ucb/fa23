@@ -15,5 +15,6 @@ days:
   - date: 2022-09-08
     events:
       "**Lecture 6**{: .label .label-lec} [Introduction to Regression II](https://ph142-ucb.github.io/fa23/src/lec/Lec06_Intro-to-regression.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/uG3M5LmBSkAzJ4itCV7SVVN-iA-ahw8U49NtY3PUAEOJQ4Rjcvox-1OYMTsZBVdO.bxpgqUbvY3NJoSmV)":
+      "**Quiz 2**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/575069) (Due Sept. 8st, 5 PM PST)":
               
 ---
