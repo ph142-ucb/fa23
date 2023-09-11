@@ -3,7 +3,7 @@ title: Week 4
 days:
   - date: 2022-09-11
     events:
-      "**Lecture 7**{: .label .label-lec} [Two-way Tables](https://ph142-ucb.github.io/fa23/src/lec/Lec7_Two-way-tables.pdf)":
+      "**Lecture 7**{: .label .label-lec} [Two-way Tables](https://ph142-ucb.github.io/fa23/src/lec/Lec7_Two-way-tables.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/qLO-sq31ltzeqG4piCoZ5hgrhHWJyCz1OnF4opexSJa8KcJkbTHQmllTrmf_U0_i.gG8gXz1v16m0JGAg)":
         "Ch. 5"
       
   - date: 2022-09-13
