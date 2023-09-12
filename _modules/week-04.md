@@ -8,7 +8,7 @@ days:
       
   - date: 2022-09-13
     events:
-      "**Lecture 8**{: .label .label-lec} Samples and Observational Studies ":
+      "**Lecture 8**{: .label .label-lec} [Samples and Observational Studies](https://ph142-ucb.github.io/fa23/src/lec/Lec-8-_ObservationalStudies.pdf) ":
         "Ch. 6"
        
       "**Lab**{: .label .label-lab} Midterm 1 Review Session ":
