@@ -11,7 +11,7 @@ days:
       "**Lecture 8**{: .label .label-lec} [Samples and Observational Studies](https://ph142-ucb.github.io/fa23/src/lec/Lec-8-_ObservationalStudies.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/eQubv1IzCg4Cq4LxfyI1q__vHRGz1IPg57JaaJXw2q0cMqd_XLT7mQV3tHgW73sP.UuC6A3Mdtmyqh-Aq) ":
         "Ch. 6"
        
-      "**Review**{: .label .label-review} Midterm 1 Review Session ":
+      "**Review**{: .label .label-review} [Midterm 1 Review Session](https://docs.google.com/presentation/d/1OMPXg6L0LktXifMNNbpRU7RklTWqt1dsDEWK9FXVqXY/edit#slide=id.g40f7b8e44c_3_0) ":
 
   - date: 2022-09-15
     events:
