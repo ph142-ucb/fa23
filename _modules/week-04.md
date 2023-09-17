@@ -20,7 +20,7 @@ days:
 
   - date: 
     events:
-      "**Lecture 10**{: .label .label-lec} Designing Experiments (After Midterm 1)":
+      "**Lecture 10**{: .label .label-lec} [Designing Experiments](https://ph142-ucb.github.io/fa23/src/lec/Lec10_Designing-experiments_handout.pdf) (After Midterm 1)":
         "Ch. 7"
       
 ---
