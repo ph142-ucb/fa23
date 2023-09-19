@@ -7,7 +7,7 @@ days:
 
   - date: 2022-09-20
     events:
-      "**Lecture 11**{: .label .label-lec} Introduction to Probability ": 
+      "**Lecture 11**{: .label .label-lec} [Introduction to Probability](https://ph142-ucb.github.io/fa23/src/lec/Ch09_Intro-probability.pdf) ": 
         "Ch. 9"
       "**Lab 4**{: .label .label-lab} ":
       
