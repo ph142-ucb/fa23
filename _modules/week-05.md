@@ -14,6 +14,6 @@ days:
       
   - date: 2022-09-22
     events:
-      "**Lecture 12**{: .label .label-lec} [General Rules of Probability](https://ph142-ucb.github.io/fa23/src/lec/Lec12_More-probability_Notes.pdf) ":
+      "**Lecture 12**{: .label .label-lec} [General Rules of Probability](https://ph142-ucb.github.io/fa23/src/lec/Lec12_More-probability_Notes.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/UrwqVqaMT6_CW4ax9Bx3zWRuGNy2OUT3uwq4knBhgJWbFdw5bkalRSFhzdoa8fPM.KXYkoG20v3JrGJgw)":
         "Ch. 10"
 ---
