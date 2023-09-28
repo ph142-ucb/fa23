@@ -13,7 +13,7 @@ days:
       
   - date: 2022-09-29
     events:
-      "**Lecture 15**{: .label .label-lec} The Normal Distribution Part II ":
+      "**Lecture 15**{: .label .label-lec} [The Normal Distribution Part II](https://ph142-ucb.github.io/fa23/src/lec/Lec15_Normal-distn-II.pdf) ":
       "**Quiz 4**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/575069) (Open 24hr, Due Sept. 29th, 5 PM PST)":
       "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part I ":
       
