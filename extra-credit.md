@@ -8,7 +8,7 @@ description: >-
 # Extra Credit
 {: .no_toc }
 
-Would you like to earn some points back in the class? You can receive extra credit after each midterm.
+Would you like to earn some points back in the class? We will be announcing an extra credit assignment opportunity soon.
 
 <!-- Out of the four different EC opportunities, please pick two to complete. You're more than welcome to do more than two, but you will only receive credit for two for an additional 1% to your final grade (for each EC assignment). -->
 
@@ -42,16 +42,16 @@ with your statistical knowledge as either a meme or an original cartoon.
 
 <hr> -->
 
-## Extra Credit - Question Creation
+<!--## Extra Credit - Question Creation
 
 If you would like to recover points lost on the first or second midterm you have the option of an extra credit
 assignment. To recover up to 3 marks on the midterm, reinforce your understanding, and to show your
 creativity, you can make a short explanation of a concept from the course that includes sample question and
 solution guide corresponding to topics covered during that lecture.
 
-<iframe src="https://ph142-ucb.github.io/fa23/src/ec/ec-question-creation.pdf" width="100%" height="800"></iframe>
+<iframe src="https://ph142-ucb.github.io/fa23/src/ec/ec-question-creation.pdf" width="100%" height="800"></iframe> 
 
-<hr> 
+<hr> -->
 
 <!-- ## Extra Credit - Statistics is Everywhere
 
