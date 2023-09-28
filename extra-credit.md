@@ -8,7 +8,7 @@ description: >-
 # Extra Credit
 {: .no_toc }
 
-Would you like to earn some points back in the class? We will be announcing an extra credit assignment opportunity soon.
+Would you like to earn some points back in the class? We will be announcing an extra credit assignment opportunity here soon.
 
 <!-- Out of the four different EC opportunities, please pick two to complete. You're more than welcome to do more than two, but you will only receive credit for two for an additional 1% to your final grade (for each EC assignment). -->
 
