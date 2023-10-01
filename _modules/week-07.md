@@ -3,7 +3,7 @@ title: Week 7
 days:
   - date: 2022-10-02
     events:
-      "**Lecture 16**{: .label .label-lec} The Binomial Distribution ":
+      "**Lecture 16**{: .label .label-lec} [The Binomial Distribution](https://ph142-ucb.github.io/fa23/src/lec/Lec16_Discrete-distns.pdf) ":
         "Ch. 12"
       "**Participation**{: .label .label-parti} Mid Semester Feedback Survey ":
   - date: 2022-10-04
