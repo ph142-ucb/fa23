@@ -9,7 +9,7 @@ days:
     events:
       "**Lecture 20**{: .label .label-lec} Hypothesis Tests for a Mean with Known Standard Deviation ": 
         "Ch. 15"
-      "**Lab 7**{: .label .label-lab}":
+      "**Lab 7**{: .label .label-lab} [CLT and Confidence Intervals](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main) (Due Oct 13th)":
       
   - date: 2022-10-13
     events:
