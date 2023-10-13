@@ -14,7 +14,7 @@ days:
       "**Lecture 29**{: .label .label-lec} The Chi-square Test for Goodness of Fit ":
         "Ch. 21"
       "**Lab 9**{: .label .label-lab}":
-      "**Quiz 8**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/575069) (Open 24hr, Due Nov. 3rd, 5 PM PST)":
+      "**Quiz 8**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/575069) (Open 24hr, Due Nov. 3rd, 11:59 PM PST)":
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 5:00 PM PST)":
 ---
 

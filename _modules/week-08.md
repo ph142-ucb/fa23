@@ -14,6 +14,6 @@ days:
   - date: 2022-10-13
     events:
       "**Lecture 21**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size](https://ph142-ucb.github.io/fa23/src/lec/Lec21_Inference-in-practice.pdf) ":
-      "**Quiz 6**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/575069) (Open 24hr, Due Oct. 13th, 5 PM PST)":
+      "**Quiz 6**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/575069) (Open 24hr, Due Oct. 13th, 11:59 PM PST)":
       
 ---
