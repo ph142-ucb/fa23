@@ -3,12 +3,12 @@ title: Week 9
 days:
   - date: 2022-10-16
     events:
-      "**Lecture 22**{: .label .label-lec} Power, Type I and Type II Error, Sample Size Cont. ":
+      "**Lecture 22**{: .label .label-lec} Power, Type I and Type II Error, Sample Size Cont. [(Recording)](https://berkeley.zoom.us/rec/share/Pvrz-Uo1IFdju93V-l7IJNoaQ2je6hdUYzeFF_Rh4toqfuSGOyzEeKDBZn7yOk7G.JYBuAw9BCYHuKXtG)":
         "Ch. 17"
   - date: 2022-10-18
     events:
       "**Lecture 23**{: .label .label-lec} Inference for a Population Mean with Unknown Standard Deviation ": 
-      "**Lab**{: .label .label-lab} Midterm 2 Review ":
+      "**Lab**{: .label .label-lab} [Midterm 2 Review](https://docs.google.com/presentation/d/1l32bUTP0Cdowc14HdIqTWkB6dAGeeU9V0gmlXB4tF-g/edit?usp=sharing) ":
   - date: 2022-10-20
     events:
       "**Exam**{: .label .label-exam} Midterm 2":
