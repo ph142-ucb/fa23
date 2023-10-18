@@ -7,7 +7,7 @@ days:
         "Ch. 17"
   - date: 2022-10-18
     events:
-      "**Lecture 23**{: .label .label-lec} Inference for a Population Mean with Unknown Standard Deviation ": 
+      "**Lecture 23**{: .label .label-lec} [Inference for a Population Mean with Unknown Standard Deviation](https://ph142-ucb.github.io/fa23/src/lec/Lec-23_Inference-population-mean.pdf) ": 
       "**Lab**{: .label .label-lab} [Midterm 2 Review](https://docs.google.com/presentation/d/1l32bUTP0Cdowc14HdIqTWkB6dAGeeU9V0gmlXB4tF-g/edit?usp=sharing) ":
   - date: 2022-10-20
     events:
