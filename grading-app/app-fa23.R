@@ -77,29 +77,26 @@ ui <- fluidPage(
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Tests (Midterm 1: 15%, Midterm 2: 15%, Final: 15%)</b><br/>Enter a percentage grade for each test.
+           HTML("<b>Tests (Midterm 1: 15%, Midterm 2: 15%, Final: 20%)</b><br/>Enter a percentage grade for each test, including points received as extra credit.
                 Guess grades for tests not yet completed to see how it will affect your overall grade. <br><br>")),
     column(2,
            numericInput("m1", "Midterm 1", value = 50, min = 0, max = 100)),
     column(2,
            numericInput("m2", "Midterm 2", value = 50, min = 0, max = 100)),
     column(2,
-           numericInput("final", "Midterm 3", value = 50, min = 0, max = 100))
+           numericInput("final", "Final", value = 50, min = 0, max = 100))
            ),
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Miscellaneous</b><br/> Enter an integer for the lecture participation and percentage grades for the data project and extra credit assignments.
-                <br> For EC 2, please put '100' if full credit was received for one week, '200' if full credit was received for both weeks.<br><br>")),
+           HTML("<b>Miscellaneous</b><br/> Enter an integer for the participation opportunities missed and a percentage grade (0-100) for the data project and extra credit assignment.<br/><br>")),
     column(3,
-           numericInput(("lec_missed"), "Participation Opportunities Missed", value = 0, min = 0, max = 40)),
+           numericInput(("opp_missed"), "Participation Opportunities Missed", value = 0, min = 0, max = 40)),
     column(3,
-           numericInput(("group"), "Data Project", value = 50, min = 0, max = 100)),
+           numericInput(("group"), "Data Skills Demonstration Project", value = 50, min = 0, max = 100)),
     column(3,
-           numericInput(("ec1"), "EC 1: Statistics is Everywhere", value = 0, min = 0, max = 100)),
-	column(3,
-           numericInput(("ec2"), "EC 2: Questions and Solution Guide", value = 0, min = 0, max = 200))
-  ),
+           numericInput(("ec1"), "EC: Statistics is Everywhere", value = 0, min = 0, max = 100)),
+	),
   hr(),
   fluidRow(
     column(12,
@@ -114,16 +111,16 @@ ui <- fluidPage(
 server <- function(input, output) {
   
   ### Defining Weights of Categories
-  # lec_weight <- 0.10
+  # participation_weight <- 0.05
   # lab_weight <- 0.10
   # quiz_weight <- 0.15
   # mt1_weight <- 0.15
   # mt2_weight <- 0.15
-  # final_weight <- 0.15
+  # final_weight <- 0.20
   # proj_weight <- 0.20
-  # ec_weight <- 0.01
+  # ec_weight <- 0.02
   # 
-  # weights <- c(lec_weight, lab_weight, quiz_weight, mt1_weight, 
+  # weights <- c(participation_weight, lab_weight, quiz_weight, mt1_weight, 
   #              mt2_weight, final_weight, proj_weight, ec_weight)
   
   
@@ -191,33 +188,32 @@ server <- function(input, output) {
   ##### Original Grading Policy Weighted
   original <- reactive({
 
-    lec_weight <- 0.10
+    participation_weight <- 0.05
     lab_weight <- 0.10
     quiz_weight <- 0.15
 
     mt1_weight <- 0.15
     mt2_weight <- 0.15
-    final_weight <- 0.15
+    final_weight <- 0.20
 
     project_weight <- 0.20
-    extra_credit_weight <- 0.01
+    extra_credit_weight <- 0.02
 
-    lec_percentage <- 100
+    participation_percent <- 100
     
     
-    if (input$lec_missed > 1) {
-      lec_percentage <- ((17 - (input$lec_missed - 1)) / 17) * 100
+    if (input$opp_missed > 1) {
+      participation_percent <- ((17 - (input$opp_missed - 1)) / 17) * 100
     }
     
-    weight_avg <- (lec_weight * lec_percentage) + 
+    weight_avg <- (participation_weight * participation_percent) + 
       (lab_avg() * lab_weight) + 
       (quiz_avg() * quiz_weight) +
       (input$m1 * mt1_weight) + 
       (input$m2 * mt2_weight) + 
       (input$final * final_weight) +
       (input$group * project_weight) + 
-      (input$ec1 * extra_credit_weight) + 
-      (input$ec2 * extra_credit_weight)
+      (input$ec1 * extra_credit_weight)
 
     return(weight_avg)
   })
