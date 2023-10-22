@@ -3,7 +3,7 @@ title: Week 10
 days:
   - date: 2022-10-23
     events:
-      "**Lecture 24**{: .label .label-lec} Comparing Two Means ":
+      "**Lecture 24**{: .label .label-lec} [Comparing Two Means](https://ph142-ucb.github.io/fa23/src/lec/Lec_24_Comparing-two-means.pdf) ":
         "Ch. 18"
   - date: 2022-10-25
     events:

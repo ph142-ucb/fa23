@@ -16,9 +16,9 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 - Please refer to the [Dataset Criteria](https://docs.google.com/document/d/1rV8MwHR8yLP1fM780hXVD1VS80QKJlBswcKhhmUh6SE/edit?usp=sharing) to ensure you are using a valid dataset!
 - You can find the rubric for Part 1 of the Data Project [here](https://docs.google.com/document/d/1_9VLmLDYjhxRNm4tJaLvnecZ61H8Am9U5TVKglhvdAs/edit).
 
-<!---
-[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/fa22/src/dp/part2_instructions.pdf)  
 
+[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/fa22/src/dp/part2_instructions.pdf)  
+<!---
 [Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/fa22/src/dp/part3-instructions.pdf)  
 -->
 
@@ -68,7 +68,7 @@ Because we are asking you to provide some visualizations and use the same datase
 
 There are a few ways you can contact your GSI:
 
-1. Create a private post on Ed with your question(s)/images and tag your assigned GSI (Example: @Iris Yen)
+1. Create a private post on Ed with your question(s)/images and tag your assigned GSI (Example: @Paula Marquez)
 2. Attend your assigned GSI's Office Hours! All OH's are listed on the [course calendar](https://ph142-ucb.github.io/fa23/calendar/)
 3. Email <ph142Fall2023@berkeley.edu> with the subject line "[Data Project] GSI ________ - ..."
 
