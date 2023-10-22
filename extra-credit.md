@@ -52,7 +52,7 @@ solution guide corresponding to topics covered during that lecture.
 <iframe src="https://ph142-ucb.github.io/fa23/src/ec/ec-question-creation.pdf" width="100%" height="800"></iframe> 
 
 <hr> -->
-
+<!---
 ## Extra Credit - Statistics is Everywhere
 
 Throughout the term, we have (and will continue to) include a recurring “Statistics is Everywhere” segment,
@@ -65,6 +65,6 @@ statistical information, and to share your critical thinking with others.
 For this extra credit assignment, we are asking you to provide your own “Statistics is Everywhere” example
 and demonstrate this kind of critical thinking
 
-<!--- <iframe src="https://ph142-ucb.github.io/fa23/src/ec/ec-statistics-is-everywhere.pdf" width="100%" height="800"></iframe>
+<iframe src="https://ph142-ucb.github.io/fa23/src/ec/ec-statistics-is-everywhere.pdf" width="100%" height="800"></iframe>
 
 <hr> -->
