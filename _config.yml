@@ -36,6 +36,8 @@ nav_links:
     - 'https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main'
   Textbook:
     - 'https://search.library.berkeley.edu/permalink/01UCS_BER/1thfj9n/alma991086116442606532'
+  Grade Calculator:
+    - 'https://sph-ph142.shinyapps.io/grading-app/'
   
 nav_footer_content: "Powered by <a href=\"https://github.com/kevinlin1/just-the-class\">Just the Class</a>"
 
