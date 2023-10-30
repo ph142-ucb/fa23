@@ -14,7 +14,7 @@ days:
       
   - date: 2022-10-27
     events:
-      "**Lecture 26**{: .label .label-lec} [Inference for a Population Proportion](https://ph142-ucb.github.io/fa23/src/lec/Lec26_Inference-population-proportion.pdf) ":
+      "**Lecture 26**{: .label .label-lec} [Inference for a Population Proportion](https://ph142-ucb.github.io/fa23/src/lec/Lec26_Inference-population-proportion.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/Gg8YCkFDmNo5zW5Hyy8H-zmpcdtP-MDqbWQWYtrldcXQPbKg8U9lRz-RI641MiC5.XTXVIzjY-iWhWdP1) ":
         "Ch. 19"
       "**Quiz 7**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/575069) (Open 24hr, Due Oct 27th, 11:59 PM PST)":
       
