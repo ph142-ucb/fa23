@@ -10,7 +10,7 @@ days:
       "**Lecture 25**{: .label .label-lec} [Matched Comparisons](https://ph142-ucb.github.io/fa23/src/lec/Lec_25_Paired-t-test.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/HpgL1D7gxiQoxcZwdzOQrvzT0y1UCtHI9Bc2-XvZ0Du8-2Y_edkHfIAB_jrSzXbz.vBM2ijIQxXihZDWf) ": 
         "Ch. 17"
       "**Lab 8**{: .label .label-lab} [T-Tests](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main) (Due Oct 27th)":
-      "**Homework 7**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main) ":
+      "**Homework 7**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main) [(Solutions)](https://ph142-ucb.github.io/fa23/src/hw-sol/hw07-sol.pdf) ":
       
   - date: 2022-10-27
     events:
