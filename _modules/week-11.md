@@ -3,7 +3,7 @@ title: Week 11
 days:
   - date: 2022-10-30
     events:
-      "**Lecture 27**{: .label .label-lec} [Comparing Two Proportions](https://ph142-ucb.github.io/fa23/src/lec/Lec27_Comparing-two-proportions.pdf) ":
+      "**Lecture 27**{: .label .label-lec} [Comparing Two Proportions](https://ph142-ucb.github.io/fa23/src/lec/Lec27_Comparing-two-proportions.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/FsjX7zmkPSbQwk-JTGkgPRFZNadyXn7AeL-5PgaXMRp0ZxoBCfKQifWaytJTCamv.P3S15iF3du_8U1z9)":
         "Ch. 20"
       "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part II ":
   - date: 2022-11-01
