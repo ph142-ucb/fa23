@@ -8,13 +8,13 @@ days:
       "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part II ":
   - date: 2022-11-01
     events:
-      "**Lecture 28**{: .label .label-lec} [Bootstrapping Confidence Intervals](https://ph142-ucb.github.io/fa23/src/lec/Lec28_bootstrapping.pdf) ": 
+      "**Lecture 28**{: .label .label-lec} [Bootstrapping Confidence Intervals](https://ph142-ucb.github.io/fa23/src/lec/Lec28_bootstrapping.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/Uflm2xrqMzQ5sUaT4_CcvP0lHQCvyPBK3mCLtd4LPNBt9F62NT8damuZjThMSDE.lHCs7LlMsttNfcys)": 
       "**Lab 9**{: .label .label-lab} [Proportions and Inference](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main) (Due Nov 3rd)":
       "**Homework 8**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main)":
 
   - date: 2022-11-03
     events:
-      "**Lecture 29**{: .label .label-lec} The Chi-square Test for Goodness of Fit ":
+      "**Lecture 29**{: .label .label-lec} [The Chi-square Test for Goodness of Fit](https://ph142-ucb.github.io/fa23/src/lec/Lec29_Inference-categorical-var-greater-than-2-levels.pdf) ":
         "Ch. 21"
       "**Quiz 8**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/575069) (Open 24hr, Due Nov. 3rd, 11:59 PM PST)":
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 5:00 PM PST)":
