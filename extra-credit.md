@@ -8,7 +8,7 @@ description: >-
 # Extra Credit
 {: .no_toc }
 
-Would you like to earn some points back in the class? We will be announcing an extra credit assignment opportunity here soon.
+Would you like to earn some points back in the class? You may earn up to 2% of your grade back by completing this assignment. 
 
 <!-- Out of the four different EC opportunities, please pick two to complete. You're more than welcome to do more than two, but you will only receive credit for two for an additional 1% to your final grade (for each EC assignment). -->
 
@@ -52,7 +52,7 @@ solution guide corresponding to topics covered during that lecture.
 <iframe src="https://ph142-ucb.github.io/fa23/src/ec/ec-question-creation.pdf" width="100%" height="800"></iframe> 
 
 <hr> -->
-<!---
+
 ## Extra Credit - Statistics is Everywhere
 
 Throughout the term, we have (and will continue to) include a recurring “Statistics is Everywhere” segment,
@@ -67,4 +67,3 @@ and demonstrate this kind of critical thinking
 
 <iframe src="https://ph142-ucb.github.io/fa23/src/ec/ec-statistics-is-everywhere.pdf" width="100%" height="800"></iframe>
 
-<hr> -->
