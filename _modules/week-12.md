@@ -3,7 +3,7 @@ title: Week 12
 days:
   - date: 2022-11-06
     events:
-      "**Lecture 30**{: .label .label-lec} The Chi-square Test for Two-way Tables ":
+      "**Lecture 30**{: .label .label-lec} [The Chi-square Test for Two-way Tables](https://ph142-ucb.github.io/fa23/src/lec/Lec30_Inference-two-way-tables.pdf) ":
         "Ch. 22"
   - date: 2022-11-08
     events:
