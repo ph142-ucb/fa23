@@ -16,7 +16,7 @@ days:
     events:
       "**Lecture 29**{: .label .label-lec} [The Chi-square Test for Goodness of Fit](https://ph142-ucb.github.io/fa23/src/lec/Lec29_Inference-categorical-var-greater-than-2-levels.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/mXcjoRbC3OYGiUt8UXNHPwKXXZFghs6EgR8whZmmpofwJs508Ea_F2f9JGpKxV2-.fENq9S9l0G4SOR8q)":
         "Ch. 21"
-      "**Quiz 8**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/575069) (Open 24hr, Due Nov. 3rd, 11:59 PM PST)":
-      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 5:00 PM PST)":
+      "**Quiz 8**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/575069) (Open 24hr, Due Nov. 3rd, 11:59 PM PST)":  
+          
 ---
 

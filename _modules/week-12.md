@@ -5,6 +5,7 @@ days:
     events:
       "**Lecture 30**{: .label .label-lec} [The Chi-square Test for Two-way Tables](https://ph142-ucb.github.io/fa23/src/lec/Lec30_Inference-two-way-tables.pdf) ":
         "Ch. 22"
+      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 11:59 PM PST)":
   - date: 2022-11-08
     events:
       "**Lecture 31**{: .label .label-lec} Permutation Tests ":
