@@ -10,7 +10,7 @@ days:
     events:
       "**Lecture 31**{: .label .label-lec} [Permutation Tests](https://ph142-ucb.github.io/fa23/src/lec/Lec31_Permutation-Tests.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/nzNe-NIEjBWkAu5RomaOK_1C9cqiwOcVu1lTnuNCwaQY5bCVLe5VPjuTg_37uhaL.cnRTo8JGTS_lY9Yh)":
       "**Lab 10**{: .label .label-lab} [Chi Squared Testing](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main) (Due Nov 10th)":
-      "**Homework 9**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main)":
+      "**Homework 9**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main) [(Solutions)](https://ph142-ucb.github.io/fa23/src/hw-sol/hw09-sol.pdf)":
 
       
   - date: 2022-11-10
