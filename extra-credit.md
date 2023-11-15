@@ -8,7 +8,7 @@ description: >-
 # Extra Credit
 {: .no_toc }
 
-Would you like to earn some points back in the class? You may earn up to 2% of your grade back by completing this assignment. 
+Would you like to earn some points back in the class? You may earn up to 2% of your overall course grade back by completing this assignment. 
 
 <!-- Out of the four different EC opportunities, please pick two to complete. You're more than welcome to do more than two, but you will only receive credit for two for an additional 1% to your final grade (for each EC assignment). -->
 
