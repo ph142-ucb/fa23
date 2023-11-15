@@ -3,11 +3,11 @@ title: Week 13
 days:
   - date: 2022-11-13
     events:
-      "**Lecture 32**{: .label .label-lec} [Inference for Regression I](https://ph142-ucb.github.io/fa23/src/lec/Lec32_Inference-for-regression.pdf)":
+      "**Lecture 32**{: .label .label-lec} [Inference for Regression I](https://ph142-ucb.github.io/fa23/src/lec/Lec32_Inference-for-regression.pdf)[(Recording)](https://berkeley.zoom.us/rec/share/kgb52Noi2m32MfALFqwYgad457YoRWhbspzAeGzbnnDtPPx0MGYnewLwBrEHJDdS.xr2bW69-GhvAx-j2)":
         "Ch. 23"
   - date: 2022-11-15
     events:
-      "**Lecture 33**{: .label .label-lec} Inference for Regression II": 
+      "**Lecture 33**{: .label .label-lec} [Inference for Regression II](https://ph142-ucb.github.io/fa23/src/lec/Lec33_Inference-for-regression.pdf": 
       "**Lab 11**{: .label .label-lab} [Linear Regression Assumptions](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main) (Due Nov 17th)":
       "**Homework 10**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main)":
       
