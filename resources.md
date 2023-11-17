@@ -57,13 +57,11 @@ description: Resources for students
 |                | [Sp21 Midterm 2 Takehome](https://ph142-ucb.github.io/fa23/src/resources/mt2/mt2_sp21_takehome.pdf) | [Sp21 Midterm 2 Takehome Solutions](https://ph142-ucb.github.io/fa23/src/resources/mt2/mt2_sp21_takehome_SOLUTIONS.pdf) |
 |                | [Fa21 Midterm 2](https://ph142-ucb.github.io/fa23/src/resources/mt2/mt2_fa21.pdf) | [Fa21 Midterm 2 Solutions](https://ph142-ucb.github.io/fa23/src/resources/mt2/mt2_fa21_SOLUTIONS.pdf) |
 |                | [Fa22 Midterm 2](https://ph142-ucb.github.io/fa23/src/resources/mt2/mt2_fa22.pdf) | [Fa22 Midterm 2 Solutions](https://ph142-ucb.github.io/fa23/src/resources/mt2/mt2_fa22_SOLUTIONS.pdf) |
-
-<!--
 |----------------|-------------------------------|--------------------------------|
 | Final          | [Fa19 Final](https://ph142-ucb.github.io/fa23/src/resources/final/final_fa19.pdf) | [Fa19 Final Solutions](https://ph142-ucb.github.io/fa23/src/resources/final/final_fa19_SOLUTIONS.pdf) |
 |                | [Fa20 Final](https://ph142-ucb.github.io/fa23/src/resources/final/final_fa20.pdf) | [Fa20 Final Solutions](https://ph142-ucb.github.io/fa23/src/resources/final/final_fa20_SOLUTIONS.pdf) |
 |                | [Sp21 Final Takehome](https://ph142-ucb.github.io/fa23/src/resources/final/final_sp21_takehome.pdf) | [Sp21 Final Takehome Solutions](https://ph142-ucb.github.io/fa23/src/resources/final/final_sp21_takehome_SOLUTIONS.pdf) |
-|                | [Sp21 Final Gradescope](https://ph142-ucb.github.io/fa23/src/resources/final/final_sp21_timed.pdf) | [Sp21 Final Gradescope Solutions](https://ph142-ucb.github.io/fa23/src/resources/final/final_sp21_timed_SOLUTIONS.pdf) |  -->
+|                | [Sp21 Final Gradescope](https://ph142-ucb.github.io/fa23/src/resources/final/final_sp21_timed.pdf) | [Sp21 Final Gradescope Solutions](https://ph142-ucb.github.io/fa23/src/resources/final/final_sp21_timed_SOLUTIONS.pdf) |  
 
 
 
