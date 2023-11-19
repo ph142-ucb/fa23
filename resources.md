@@ -62,6 +62,7 @@ description: Resources for students
 |                | [Fa20 Final](https://ph142-ucb.github.io/fa23/src/resources/final/final_fa20.pdf) | [Fa20 Final Solutions](https://ph142-ucb.github.io/fa23/src/resources/final/final_fa20_SOLUTIONS.pdf) |
 |                | [Sp21 Final Takehome](https://ph142-ucb.github.io/fa23/src/resources/final/final_sp21_takehome.pdf) | [Sp21 Final Takehome Solutions](https://ph142-ucb.github.io/fa23/src/resources/final/final_sp21_takehome_SOLUTIONS.pdf) |
 |                | [Sp21 Final Gradescope](https://ph142-ucb.github.io/fa23/src/resources/final/final_sp21_timed.pdf) | [Sp21 Final Gradescope Solutions](https://ph142-ucb.github.io/fa23/src/resources/final/final_sp21_timed_SOLUTIONS.pdf) |  
+|                | [Fa21 Final](https://ph142-ucb.github.io/fa23/src/resources/final/final_fa21.pdf) | [Fa21 Final Solutions](https://ph142-ucb.github.io/fa23/src/resources/final/final_fa21_SOLUTIONS.pdf) |
 
 
 
