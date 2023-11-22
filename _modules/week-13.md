@@ -9,7 +9,7 @@ days:
     events:
       "**Lecture 33**{: .label .label-lec} [Inference for Regression II](https://ph142-ucb.github.io/fa23/src/lec/Lec33_Inference-for-regression.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/GIONWrUUi717h8q_wsuq_LSV-Fonrf4uQ0GuBIVWZxUL-z_eOfRv3kQhrOnJ3NMH.j2_fnbUMqJ9JeVK-)": 
       "**Lab 11**{: .label .label-lab} [Linear Regression Assumptions](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main) (Due Nov 17th)":
-      "**Homework 10**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main)":
+      "**Homework 10**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main) [(Recording)](https://ph142-ucb.github.io/fa23/src/hw-sol/hw10-sol.pdf)":
       
   - date: 2022-11-17
     events:
