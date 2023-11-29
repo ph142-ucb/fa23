@@ -7,12 +7,12 @@ days:
 
   - date: 2022-08-23
     events:
-      "**Lecture 1**{: .label .label-lec} [Intro to PH142, the Cloud, and PPDAC](https://ph142-ucb.github.io/fa23/src/lec/001_PPDAC.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/PonTOEBVOY_zao7tHjBcwKJzBEusCvRW0nTqe8HPvO2mQfVIi9QWwAOyPIn1IQC8.Bu5yU_2Fxadz2f0G)":
+      "**Lecture 1**{: .label .label-lec} [Intro to PH142, the Cloud, and PPDAC](https://ph142-ucb.github.io/fa23/src/lec/001_PPDAC.pdf) [(Recording)](https://edstem.org/us/courses/44261/discussion/3941539#:~:text=https%3A//kaltura.berkeley.edu/channel/PH142%2BFall%2B2023/324651512/subscribe)":
       "**Lab 1**{: .label .label-lab} [Probability Calculations](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main) (Due Aug 29th)":
       "**Homework 1**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa23&urlpath=rstudio%2F&branch=main) [(Solutions)](https://ph142-ucb.github.io/fa23/src/hw-sol/hw01-sol.pdf)":
       
   - date: 2022-08-25
     events:
-      "**Lecture 2**{: .label .label-lec} [Working with Data in R and Rstudio](https://ph142-ucb.github.io/fa23/src/lec/002_Working-with-data.pdf)  [(Recording)](https://berkeley.zoom.us/rec/share/hnhErA9tJWUR9Yv6OdGtANhFKolzEpCeBusyESJANGrNek994seQzSje7CCg0HaE.u-a4bwtADi7_uLHB) ":
+      "**Lecture 2**{: .label .label-lec} [Working with Data in R and Rstudio](https://ph142-ucb.github.io/fa23/src/lec/002_Working-with-data.pdf)  [(Recording)](https://edstem.org/us/courses/44261/discussion/3941539#:~:text=https%3A//kaltura.berkeley.edu/channel/PH142%2BFall%2B2023/324651512/subscribe) ":
       
 ---

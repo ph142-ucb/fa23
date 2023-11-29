@@ -9,12 +9,12 @@ days:
 
   - date: 2022-09-06
     events:
-      "**Lecture 6**{: .label .label-lec} [Introduction to Regression](https://ph142-ucb.github.io/fa23/src/lec/Lec06_Intro-to-regression.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/KAxRLmXGBLnptdWEQwUIGQ1cTleRfrV5cu6pV8sA3ggs4yS1PMrlHV1I1tH1tZpF.CJqVn-K2vlal6pE_)": 
+      "**Lecture 6**{: .label .label-lec} [Introduction to Regression](https://ph142-ucb.github.io/fa23/src/lec/Lec06_Intro-to-regression.pdf) [(Recording)](https://edstem.org/us/courses/44261/discussion/3941539#:~:text=https%3A//kaltura.berkeley.edu/channel/PH142%2BFall%2B2023/324651512/subscribe)": 
         "Ch. 4"
       
   - date: 2022-09-08
     events:
-      "**Lecture 6**{: .label .label-lec} [Introduction to Regression II](https://ph142-ucb.github.io/fa23/src/lec/Lec06_Intro-to-regression.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/uG3M5LmBSkAzJ4itCV7SVVN-iA-ahw8U49NtY3PUAEOJQ4Rjcvox-1OYMTsZBVdO.bxpgqUbvY3NJoSmV)":
+      "**Lecture 6**{: .label .label-lec} [Introduction to Regression II](https://ph142-ucb.github.io/fa23/src/lec/Lec06_Intro-to-regression.pdf) [(Recording)](https://edstem.org/us/courses/44261/discussion/3941539#:~:text=https%3A//kaltura.berkeley.edu/channel/PH142%2BFall%2B2023/324651512/subscribe)":
       "**Quiz 2**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/575069) (Due Sept. 8st, 5 PM PST)":
               
 ---
