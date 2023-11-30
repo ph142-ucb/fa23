@@ -33,7 +33,7 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 - **Part I is due on October 6th at 5pm PST**
 - **Part II is due on November 6th at 11:59pm PST**
-- **Part III is due on December 1st at 5pm PST**
+- **Part III is due on December 1st at 11:59pm PST**
 
 **Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations.**
 

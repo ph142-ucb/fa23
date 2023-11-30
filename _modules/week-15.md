@@ -11,5 +11,5 @@ days:
   - date: 2022-12-01
     events:
      "**Lecture 38**{: .label .label-lec} Final Exam Review":
-     "**Data Project**{: .label .label-proj} Data Skills Demonstration Part III (Due 5:00 PM PST)":
+     "**Data Project**{: .label .label-proj} Data Skills Demonstration Part III (Due 11:59 PM PST)":
 ---
