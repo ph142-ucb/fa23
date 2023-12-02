@@ -10,6 +10,6 @@ days:
       "**Lab**{: .label .label-lab} [Final Exam Review](https://docs.google.com/presentation/d/1bco_6YnnIHhU3Eic4N8WY2IoAHMDPStT1YiePpDbLnU/edit?usp=sharing)":
   - date: 2022-12-01
     events:
-     "**Lecture 38**{: .label .label-lec} [Final Exam Review](https://ph142-ucb.github.io/fa23/src/lec/Lec38_Part-III_review.pdf)":
+     "**Lecture 38**{: .label .label-lec} [Final Exam Review](https://ph142-ucb.github.io/fa23/src/lec/Lec38_Part-III_review.pdf) [(Review)](https://berkeley.zoom.us/rec/share/oqSzZ2CaYdq4xMQRcujSONXJB4X3mIBOLV7lZ-EfYhn1t9MyzjNMMV5NPPIot6J5.zckCsQ-tQERxJVOe)":
      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part III (Due 11:59 PM PST)":
 ---
